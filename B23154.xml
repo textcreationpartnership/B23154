@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This is an encuragement to all the womens-meetings in the world who assemble together in the fear of God for the service of the truth : wherein they may see how the holy men encouraged the holy women both in the time of the law, and in the time of the Gospel, though selfish and unholy men may seek to discourage them : but go on in the name and power of Christ, and prosper / by G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 88KB of XML-encoded text transcribed from 50 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23154</idno><idno type="EEBO-CITATION">15352989</idno>
+  <idno type="VID">204166</idno>
+  <idno type="EEBO-PROQUEST">2248503282</idno>
+  
+            <idno type="STC">Wing F1934</idno>
+            <idno type="OCLC">15352989</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23154)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204166)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1188:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This is an encuragement to all the womens-meetings in the world who assemble together in the fear of God for the service of the truth : wherein they may see how the holy men encouraged the holy women both in the time of the law, and in the time of the Gospel, though selfish and unholy men may seek to discourage them : but go on in the name and power of Christ, and prosper / by G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>96 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London?] printed :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Error in paging: p. 31 misprinted 13.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Women in the Bible.</term>
+               <term type="topical_term">Women --  Religious life.</term>
+               <term type="topical_term">Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204166:1"/>
+            <pb facs="tcp:204166:1"/>
+            <pb facs="tcp:204166:2"/>
+            <pb facs="tcp:204166:2"/>
+            <p>This is an ENCOURAGEMENT To All the Womens-Meetings, In the WORLD, Who assemble together in the Fear of God for the Service of the Truth. Wherein they may see how the Holy Men Encouraged the Holy Women both in the Time of the Law, and in the Time of the Gospel; Though Selfish and Unholy Men may seek to Discourage them. But go on in the Name and Power of Christ, and Prosper.</p>
+            <p>By G. F.</p>
+            <p>Printed in the Year 1676.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:204166:3"/>
+            <pb n="3" facs="tcp:204166:3"/>
+            <head>To all the Women that are gathered by and in the Power of God, and thereby made willing to Answer his Requirings in his Love that loved us first, we love you, wish<g ref="char:EOLhyphen"/>ing your Increase therein.</head>
+            <p>OUr dear Sisters in the Co<g ref="char:EOLhyphen"/>venant of Light &amp; Life, wherewith God, our God, hath visited us, and given us the Knowledge of himself in the Face of Jesus Christ, by the re<g ref="char:EOLhyphen"/>velation of his Spirit, and are come to a good Understanding of his Sufferings, Death and Re<g ref="char:EOLhyphen"/>surrection, and this not by a hear-say, or reading only there<g ref="char:EOLhyphen"/>of,
+<pb n="4" facs="tcp:204166:4"/> as all the Antichristian Brood hath, but through the free and universal Grace are brought not only into the Fellowship of his Sufferings, where <hi>we have seen him whom we have pierced, and mourned over him,</hi> but by faith<g ref="char:EOLhyphen"/>ful Obedience to the Spirit that raised Jesus from the Dead, are come to be Witnesses, <hi>that he which was dead, is alive, and lives for evermore; and because he lives, we live also,</hi> and are Partakers of the Love of the Father, which extends it self to and through the whole Creation, and in the Aboundings thereof we cannot but bring forth of his Mercies, and have the sensible feeling that it endures forever, and who
+<pb n="5" facs="tcp:204166:4"/> ministers therein will not be weary of Well-doing; and in that which has strengthned us thereto is our Salutation of un<g ref="char:EOLhyphen"/>feigned Love to you, declaring, that your <hi>Epistles</hi> from <hi>Rode-Island, New-York,</hi> and there<g ref="char:EOLhyphen"/>away, were very joyous unto us, that the Lord has called his Daughters from far to the Exer<g ref="char:EOLhyphen"/>cises of Love and Mercies to all that stand in need, and be<g ref="char:EOLhyphen"/>ing sate down with us, we shall sit at the one Table, where the Bread is broken that comes down from God, <hi>and whoever eats thereof shall never dye;</hi> and to the Faith we are come, and the fulfilling of the Promises we witness, and are yet waiting for,
+<pb n="6" facs="tcp:204166:5"/> as being assured, <hi>God will give unto him</hi> (in whom we have believed) <hi>the Heathen for his In<g ref="char:EOLhyphen"/>heritance, and the utmost Parts of the Earth for his Possession:</hi> and what if the Lord will honour you, though weak, to bring forth of his Strength among the Ig<g ref="char:EOLhyphen"/>norant and Unbelieving, who have been hardned and shut up in Darkness by the Professing <hi>Christians,</hi> that talked of a God, of Goodness and Mercy, but brought forth bitter Fruits of <hi>co<g ref="char:EOLhyphen"/>vetous practices, self-love</hi> &amp; <hi>cruelty towards others,</hi> not bearing his I<g ref="char:EOLhyphen"/>mage that is sent of the Father, whom we know to be <hi>holy</hi> and <hi>harmles,</hi> gathering out of the <hi>cru<g ref="char:EOLhyphen"/>elty</hi> and <hi>violence,</hi> that hath entred
+<pb n="7" facs="tcp:204166:5"/> by transgression, up into his Life &amp; Image, that was before trans<g ref="char:EOLhyphen"/>gression was, by the Restorer of all things, <hi>Christ Jesus:</hi> And so, <hi>dear Sisters,</hi> we are perswaded you know and feel your <hi>high</hi> &amp; <hi>holy Call,</hi> that by believing in the light come to receive of his life; and living Fruits all such do and will bring forth unto God: so your Bounty &amp; Mercy will de<g ref="char:EOLhyphen"/>clare whose you are; for the life of Jesus is the Light of men, and in this Life stands our Fellow<g ref="char:EOLhyphen"/>ship with you, and were glad the Servant of the Lord put this little Book into our hands, a few Widows, that trust in God, that we might with it send our Gree<g ref="char:EOLhyphen"/>ting, and to re-mind you what
+<pb n="8" facs="tcp:204166:6"/> we have experienced in near 20 years service in our <hi>Womens Mee<g ref="char:EOLhyphen"/>tings,</hi> that <hi>though some storms have beset us, scorns and contemnings, slittings &amp; blusterings, winds from the high and self-wise ones devising against us, yet the lowly &amp; faithful have stood, and grown over all, and y<seg rend="sup">e</seg> defence of</hi> Abraham <hi>has been upon us, and his reward has been and is with us, and it is exceeding great, crowning our Labours of Love in his renewed Power and Presence, that is Almighty and Everlasting;</hi> into whose Hand of Preservation we commit you, wishing <hi>increase of Grace &amp; Glory</hi> to be pour'd forth and abide upon you, and remain your <hi>Friends</hi> and <hi>Sisters</hi> in that which never changes nor waxes old.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="9" facs="tcp:204166:6"/>
+            <head>This is an ENCOURAGEMENT To All the Womens Meetings In the WORLD, Who assemble together in the Fear of God for the Service of the Truth.</head>
+            <head type="sub">Wherein they may see, how the Holy Men Encouraged the Holy Women, both in the time of the Law, and in the time of the Gospel, though Selfish and Unholy Men may seek to Discourage them.</head>
+            <p>FRiends, you may read in the old World, how one Family after another, till <hi>Noah's</hi> time served the Lord God, both Males
+<pb n="10" facs="tcp:204166:7"/> and Females. And then from <hi>Noah Abraham, Isaac,</hi> and <hi>Jacob,</hi> and their Wives, and after <hi>Moses</hi> and <hi>Aaron</hi> had brought the Children of <hi>Israel</hi> out of <hi>Egypt,</hi> and that they were come to be a great People.</p>
+            <p>
+               <hi>Moses</hi> said <hi>I would all the Lord's Peo<g ref="char:EOLhyphen"/>ple were Prophets, Numb.</hi> 11.29. And when a Young man said unto <hi>Moses, Eldad</hi> and <hi>Medad do Prophesie in the Camp,</hi> and he would have had <hi>Moses</hi> to forbid them; But <hi>Moses</hi> answered and said unto him again, <hi>Would to God all the Lord's People were Prophets, and that the Lord would put his Spirit upon them.</hi>
+            </p>
+            <p>So <hi>Moses</hi> here (who was Captain, Governour, and Judge over <hi>Israel</hi>) was far from restraining any from prophesying in the Camp, but re<g ref="char:EOLhyphen"/>proved his Envy that would have had him forbid them, and did more<g ref="char:EOLhyphen"/>over Incourage them, by saying, <hi>I would to God all the Lord's People were Prophets;</hi> and surely all the Lord's
+<pb n="11" facs="tcp:204166:7"/> People are made up of Men and Wo<g ref="char:EOLhyphen"/>men.</p>
+            <p>And the Lord having given his Law to the Children of <hi>Israel,</hi> which was Holy, Just, and Good, the Lord said, <hi>I have poured out my Spirit upon the House of Israel:</hi> So that by this Spirit they might understand his Law, which was Spiritual, <hi>Ezek.</hi> 39.29.</p>
+            <p>Now in the time of the Law, there were the Assemblies of the Women; for all the Women that were wise of Heart, did work with their Hands a<g ref="char:EOLhyphen"/>bout those holy things which God had commanded.</p>
+            <p>And all the Women whose Hearts stirred them up in Wisdom, these Women wrought about those holy things that belonged to the Taberna<g ref="char:EOLhyphen"/>cle and Sanctuary, as you may see in <hi>Exod.</hi> 35, and 36. <hi>chap.</hi>
+            </p>
+            <p>And likewise the Assemblies of the Women, in the 38. <hi>Chap.</hi> and of the Women's Assembling at the door of
+<pb n="12" facs="tcp:204166:8"/> the Tabernacle of the Congregation, and in the Margent it's said, they as<g ref="char:EOLhyphen"/>sembled by Troops.</p>
+            <p>Now, here you may see, that the Women were in the Work and Ser<g ref="char:EOLhyphen"/>vice of God, as well as the Men; and they had their Assemblies. For God had poured out of his Spirit upon the House of <hi>Israel</hi> to give them an understanding, both Men and Wo<g ref="char:EOLhyphen"/>men, to do that, and make those things which God had commanded, which were called holy things, which were but Figures &amp; Shadows of the Substance, Christ Jesus the holy One.</p>
+            <p>Now <hi>Moses</hi> and <hi>Aaron,</hi> and the seventy Elders, did not say to those Assemblies of the Women, we can do our Work our selves, and you are more fitter to be at home to wash the Dishes, or such like Expressions; but they did encourage them in the work and Service of God, in those things which God had commanded them in the time of the Law.</p>
+            <pb n="13" facs="tcp:204166:8"/>
+            <p>For God having poured his Spirit upon the House of <hi>Israel,</hi> to give them an Understanding, to do those things which God had commanded them, by which Spirit their Hearts were stirred up to do God's Work, both Males and Females.</p>
+            <p>And in the time of the Law, the Women were to offer up Sacrifices and Offerings, as well as the Men, up<g ref="char:EOLhyphen"/>on God's Altar, as you may see, <hi>Han<g ref="char:EOLhyphen"/>nah</hi> when she brought <hi>Samuel,</hi> &amp; offe<g ref="char:EOLhyphen"/>red him up to the Lord, she brought him to the House of the Lord in <hi>Shi<g ref="char:EOLhyphen"/>loh,</hi> and when she brought him, she took up with her three Bullocks, be<g ref="char:EOLhyphen"/>sides Flower and Wine; so see how she paid her Vows to the Lord, and offered up her Sacrifices upon God's Altar. And other places might be shewed of the Womens Offerings and Sacrifices.</p>
+            <p>And you may see <hi>Hannah's</hi> fervent Zeal to God, and what a large Speech she made in magnifying and exalting
+<pb n="14" facs="tcp:204166:9"/> the Lord, in the 1st of <hi>Sam.</hi> 1, and 2. <hi>chap.</hi>
+            </p>
+            <p>And so you may see the Offerings and Sacrifices of the Women, were accepted upon God's Altar, as well as the Mens.</p>
+            <p>But the hire of a Whore was not to be brought into the House of God for any Vow, for it was an Abomi<g ref="char:EOLhyphen"/>nation to the Lord, <hi>Deut.</hi> the 23. &amp; the 19.</p>
+            <p>Now <hi>Hannah</hi>'s Husband, and the other Womens Husbands that offered up their Offerings upon God's Altar, were not offended at them, nor did they say, their Offerings were e<g ref="char:EOLhyphen"/>nough for them both; but every one was to offer up their Peace-Offer<g ref="char:EOLhyphen"/>ings and Thanksgiving - Offerings themselves, and other Offerings.</p>
+            <p>So here you may see the Service and Work of the Women, and how serviceable the women were in their Assemblies in the time of the Law, about the Tabernacle &amp; holy things,
+<pb n="15" facs="tcp:204166:9"/> and how the Women offered upon God's Altar, as well as the men, they had their Liberty. But the hire of the Whore was to be kept out of God's House, and not to be offered up upon God's Altar.</p>
+            <p>So ye may see Man and Woman were meet Helpers in Paradise, be<g ref="char:EOLhyphen"/>fore the Fall; and Death reigned from <hi>Adam</hi> till <hi>Moses,</hi> and after <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> received the Law from God, which went over Death (and Sin that brought it) who saw the State of Man and Woman in Paradise; Men and Women in the time of the Law were meet helps again to one another, in in the Work and Service of the holy things about the Tabernacle and Sanctuary, and the Women had their Assemblies.</p>
+            <p>And it's said in <hi>Joel</hi> 2. and in <hi>Acts</hi> 2. <hi>That the Lord would pour out of his Spirit upon all Flesh in the last Dayes or Times.</hi>
+            </p>
+            <p>So this Spirit being poured up<g ref="char:EOLhyphen"/>on
+<pb n="16" facs="tcp:204166:10"/> all Flesh in the Christian times, Sons, and Daughters, Hand-maids and Servants, old Men, and young Men, that by the Spirit of God, all these might have his Visions, Pro<g ref="char:EOLhyphen"/>phesies and Dreams; and this is his Spirit, by which all should profit withal in the things that be eternal, and to serve God in the Spirit, both Men and Women, Sons and Daugh<g ref="char:EOLhyphen"/>ters, old Men and young Men, Hand<g ref="char:EOLhyphen"/>maids and Servants; and all offer up to God his Spiritual Sacrifices.</p>
+            <p>For all being dead in old earthly <hi>Adam,</hi> Christ, the heavenly <hi>Adam</hi> has tasted Death for them all, and is a Propitiation for the Sins of the whole World, and he enlightens all, and his Grace hath appeared unto all and his Spirit is poured upon all, Flesh, and his Gospel, which is the Power of God, is preached to every Creature under Heaven.</p>
+            <p>And now must not all receive the Grace, and believe in the Light, and
+<pb n="17" facs="tcp:204166:10"/> receive this Gospel and walk and la<g ref="char:EOLhyphen"/>bour in it, both Men and Women, Sons and Daughters, old Men and young, Servants and Hand-maids.</p>
+            <p>Yea, I say, the Gospel being preached to all Nations, and to eve<g ref="char:EOLhyphen"/>ry Creature under Heaven, old Men and young, Servants &amp; Hand-maids, Sons and Daughters, I say, then must not all these receive this Gospel and the Light and Grace? and are they not all to walk in it? and to offer up their Spiritual Sacri<g ref="char:EOLhyphen"/>fices upon the heavenly Altar, in the new Covenant, and to walk in the new and living Way; and all to re<g ref="char:EOLhyphen"/>ceive the Light of Christ; which en<g ref="char:EOLhyphen"/>lightens all, and to become Chil<g ref="char:EOLhyphen"/>dren of Light, and to feel the Blood of Christ to cleanse them from all Sin, which they have in old <hi>Adam.</hi>
+            </p>
+            <p>So as the Women were to offer in the old Covenant, and in the time of the Law, upon the outward Altar their Offerings, and God poured out
+<pb n="18" facs="tcp:204166:11"/> his Spirit upon the House of <hi>Israel,</hi> that they might understand, and do what he commanded them, at which time they had the Assemblies of the Women, which were not forbidden.</p>
+            <p>So now in the time of the Gospel, and the day of Christ which enligh<g ref="char:EOLhyphen"/>tens all, and in the time of his Grace, which hath appeared unto all men, to teach and bring their Salvation, and in the time of his Gospel preached to every Creature, and in the time of his pouring out of his Spirit up<g ref="char:EOLhyphen"/>on all Flesh, that they might under<g ref="char:EOLhyphen"/>stand, and walk, and live in his Gospel, and by his Spirit offer up their Spiritual Sacrifices.</p>
+            <p>So in this the time and day of Christ, the Captain of our Salvation, must not all these Labour in the Go<g ref="char:EOLhyphen"/>spel, and in the Word, and in the Grace, and in the Light, and know and do God and Christ's Work and Service about his heavenly Taber<g ref="char:EOLhyphen"/>nacle and Sanctuary? hath not eve<g ref="char:EOLhyphen"/>ry
+<pb n="19" facs="tcp:204166:11"/> one their Service that are enligh<g ref="char:EOLhyphen"/>tened? and his Grace that hath ap<g ref="char:EOLhyphen"/>peared unto them, are they not Stewards of it? and must not they have their Assemblies of the Women in the time of the Gospel, and of the new Covenant, and in the time of Grace, and Light and Life, as well as in the time of the Law, and of the old Covenant?</p>
+            <p>And are not all to labour in that which tends to God's Glory, and praise, and honour, for which End he hath made them all, and for which End he hath redeemed them, and converted them, and Translated and Sanctified them, to make them Vessels of his Honour, and of his grace and mercies.</p>
+            <p>And so now the End of all our Men and Womens Meetings in the time of the Gospel, (the Power of Christ being the Authority of them) is, that they might all labour in his Power, and in his Grace, and in his
+<pb n="20" facs="tcp:204166:12"/> Spirit, and in his Light, and to do his Service and his Business in Truth and Righteousness.</p>
+            <p>So the Women in the time of the Light, Grace and Gospel, are to look into their own selves and Families, &amp; to look to the training up of their Children; for they are oft-times more amongst them then the Men, and may prevent many things that may fall out, and many times they may make or marr their Children in their Education.</p>
+            <p>So now they come to be exercised in the Grace of God, and to admo<g ref="char:EOLhyphen"/>nish and exhort, reprove and rebuke, and to keep all their Families modest, honest, vertuous, sober and civil, and not to give Liberty, nor indulge that which tends to Vice, or Lasci<g ref="char:EOLhyphen"/>viousness, or any Evil, or Idleness, or Sloathfulness, or the Fashions of the World which pass away, and to stop all vain Words, and idle talking, and Stories and Tales, which are un<g ref="char:EOLhyphen"/>profitable,
+<pb n="21" facs="tcp:204166:12"/> but rather to turn their Ears to Godliness, which they should be trained up and exercised in, and not to fulfill the Lust of the Eye; for that being satisfied, brings the Pride of Life, and then comes the Lust of the Flesh; and this is not of the Fa<g ref="char:EOLhyphen"/>ther, but of the World.</p>
+            <p>And if either Men or Women suffer such things, they suffer that which defiles their Children and Families; and therefore such things are to be reproved in Families, and their Chil<g ref="char:EOLhyphen"/>dren to be stopt from going into such things.</p>
+            <p>And therefore they are to have an Esteem of Truth and Vertue above all such things, and not to indulge any such things as will draw out their Minds from Vertue to Vice.</p>
+            <p>Now when the Women are met together in the Light, and in the Gospel, the Power of God; some are of a more large Capacity &amp; Un<g ref="char:EOLhyphen"/>derstanding then other Women, and
+<pb n="22" facs="tcp:204166:13"/> are able to inform, and instruct, and stir up others into Diligence, Ver<g ref="char:EOLhyphen"/>tue and Righteousness, and Godli<g ref="char:EOLhyphen"/>ness, and in the Love and Wisdom of God, to inform and reform their Fa<g ref="char:EOLhyphen"/>milies, and to help them that be of weaker Capacities and understand<g ref="char:EOLhyphen"/>ings in the Wisdom of God, that they may be fruitfull in every good work and word.</p>
+            <p>So that they may see that all their Families are ordered to God's Glo<g ref="char:EOLhyphen"/>ry, and that which tends to loose<g ref="char:EOLhyphen"/>ness or Evil, either in words, wayes or actions that would corrupt them either in their Lives or Manners, may be kept down and reproved.</p>
+            <p>So that all their Children and Ser<g ref="char:EOLhyphen"/>vants may be trained up in the fear of God, in the new Covenant; for among the <hi>Jews</hi> in the old Covenant them that sojourned amongst them were to keep the <hi>Sabbath,</hi> and if they did eat of their Sacrifice they were to be circumcised.</p>
+            <pb n="23" facs="tcp:204166:13"/>
+            <p>And the women had their Assem<g ref="char:EOLhyphen"/>blies in the dayes of the Judges and the Kings, and old <hi>Elys</hi> Sons abused them, and old <hi>Ely</hi> did admonish his Sons, but he did not restrain them from their Wickedness; and there<g ref="char:EOLhyphen"/>fore God cut off his Sons, and he lost the Ark of God, and the Priesthood and his own Life also.</p>
+            <p>So many of you may admonish your Children, but if ye do not re<g ref="char:EOLhyphen"/>strain them with the Spirit of God which God hath given to you, you will quench the Spirit of God in you, by indulging them; so by that you will loose your spiritual Offering, &amp; your Priesthood therein; and take heed if you do not loose your own Lives, and your Childrens, also; therefore mind old <hi>Ely</hi> for your Ex<g ref="char:EOLhyphen"/>ample.</p>
+            <p>Now old <hi>Ely</hi> was not against the Assemblies of the Women, who as<g ref="char:EOLhyphen"/>sembled by Troops, as you may see in 1 <hi>Sam.</hi> 2.21, 22. though some men
+<pb n="24" facs="tcp:204166:14"/> now adayes may be against Womens Meetings or Assemblies in the Gos<g ref="char:EOLhyphen"/>pel-times, and against womens spea<g ref="char:EOLhyphen"/>king or prophesying, but they are ig<g ref="char:EOLhyphen"/>norant of the universal Spirit, and of their Service and Labour to God, in his Grace and Gospel, and are of a niggardly narrow Spirit, and are not the true Servers of God themselves; for if they were, they would have all People to serve God in his Power, and to keep the true Religion, which is to visit the Fatherless and the Wi<g ref="char:EOLhyphen"/>dows, and to keep themselves from the Spots of the World.</p>
+            <p>And some there have been, that would have the Women to meet with the Men only; and some of them say, the women must not speak in the Church, and if they must not speak, what should they meet with them for?</p>
+            <p>But what Spirit is this, that would exercise Lordship over the Faith of any? and what a Spirit is this, that
+<pb n="25" facs="tcp:204166:14"/> will neither suffer them to speak a<g ref="char:EOLhyphen"/>mongst them, nor to meet amongst themselves to speak?</p>
+            <p>But all this is for Judgment, with that Spirit that gives Liberty unto all to labour in the Gospel, in the Light and in the Grace.</p>
+            <p>And some men and women there are that fear, if women should meet in the Order of the Gospel, the Pow<g ref="char:EOLhyphen"/>er of God, they would be too high, but such men and women are too high already, and would be a ruling Spirit over men and womens Posses<g ref="char:EOLhyphen"/>sions, and waste their own; for if they were in the Power and Spirit of God, they need not fear a<g ref="char:EOLhyphen"/>ny ones getting over them; for the Power and Spirit of God gives Li<g ref="char:EOLhyphen"/>berty to all; for Women are Heirs of Life as well as the Men, and Heirs of Grace, and of the Light of Christ Jesus, as well as the Men, and so Stewards of the manifold Grace of God.</p>
+            <pb n="26" facs="tcp:204166:15"/>
+            <p>And they must all give an account of their Stewardship, and are to be Possessors of Life, and Light, and Grace, and the Gospel of Christ, and to labour in it; and to keep their Liberty and Freedom in it, as well as the Men.</p>
+            <p>And they are Believers in the Light as well as the men, and so Children of the Light and of the Day, as well as the Men.</p>
+            <p>And so the Assemblies of the Wo<g ref="char:EOLhyphen"/>men, whom God hath poured out his Spirit upon, are to be in the time of the Gospel, as well as in the time of the Law, that they may be Helps meet to the men in the time of the Gospel, in the Restorati<g ref="char:EOLhyphen"/>on, as they were in the Biginning, and time of the Law.</p>
+            <p>So all the women in all their As<g ref="char:EOLhyphen"/>semblies in the time of the Gospel and of the New Covenant of Light, Life and Grace, are to be incouraged as they were in the time of the Law,
+<pb n="27" facs="tcp:204166:15"/> and to be stirred up in the Wisdom of God to their Diligence and Service of God and Christ, in his New Co<g ref="char:EOLhyphen"/>venant in his Gospel-time, to do the Lord's Business about the Heavenly Tabernacle, and Heavenly Garments, concerning the Substance, as the Women were about the Figure in the time of the Law.</p>
+            <p>And now you that stumble at wo<g ref="char:EOLhyphen"/>mens meetings, had not your women many vain meetings before they were convinced, and you were not then offended at them, when they met to satisfie the Flesh, and had jun<g ref="char:EOLhyphen"/>keting meetings to themselves? and did you reprove them for such mee<g ref="char:EOLhyphen"/>tings?</p>
+            <p>And why should they not now meet in their Conversion, in his Po<g ref="char:EOLhyphen"/>wer and Spirit, to do the Lord's Bu<g ref="char:EOLhyphen"/>siness, and to visit the Fartheless and Widows, and to keep them<g ref="char:EOLhyphen"/>selves from the spots of the World, which is the Practice of the Pure Re<g ref="char:EOLhyphen"/>ligion,
+<pb n="28" facs="tcp:204166:16"/> wherein the men and women may be Helps meet in the Religion that is not of the World, that keeps from the Spots of the World.</p>
+            <p>But some have said, that such meet<g ref="char:EOLhyphen"/>ings must not be, but as Business re<g ref="char:EOLhyphen"/>quires or occasions them: as much as to say, you must not make up the Hedges till the Beasts have devoured your Corn, and then the Parish hedg<g ref="char:EOLhyphen"/>lookers must meet together to com<g ref="char:EOLhyphen"/>pute the Damage; and here their VVisdom is seen; as if it were not their Duty to meet to prevent bad Actions that may fall out, and with the Power of God to stop up Gaps to prevent Evil, or weak Places; for when the Evil is entered into, it is of the latest to meet then, which ra<g ref="char:EOLhyphen"/>ther brings Scandal then Remedy, and therefore the Labourers in the Gospel men and women being Helps meet, are to see that all walk and live in the Order of the Gospel, and to see that nothing be lacking, then
+<pb n="29" facs="tcp:204166:16"/> all is well; for the Women in their Assemblies may inform one another of the poor Widows and Fatherless and in the wisdom of God may find the best way for the setting forth of their Children, and to see that their Children are preserved in Truth, and to instruct them in the Fear of the Lord.</p>
+            <p>And you may see the Care of <hi>A<g ref="char:EOLhyphen"/>braham,</hi> about <hi>Isaac</hi> taking of his wife, and the Care of <hi>Sarah,</hi> that the Son of the Bond-woman should not be Heir with her Son, and how that he sent his Servant that spoke to the Pa<g ref="char:EOLhyphen"/>rents, before he spoke to <hi>Rebekah</hi> the Daughter, concerning the Message of his Master <hi>Abraham,</hi> and they con<g ref="char:EOLhyphen"/>fessed it did proceed from the Lord, as in <hi>Gen.</hi> 24.</p>
+            <p>And also you may see the Care of <hi>Rebekah</hi> concerning <hi>Jacob,</hi> who said, <hi>If Jacob take a Wife of the Daughters of</hi> Heth, <hi>what good will my Life do me?</hi>
+            </p>
+            <p>And here you may see <hi>Isaac</hi> and <hi>Re<g ref="char:EOLhyphen"/>bekah</hi>
+               <pb n="30" facs="tcp:204166:17"/> were Helps meet, and <hi>Isaac</hi> did not say, hold thy Tongue thou Foolish Woman; for <hi>Isaac</hi> exhorted <hi>Jacob,</hi> and charged him not to take a VVife of the Daughters of <hi>Canaan,</hi> as you may see in <hi>Gen.</hi> 27. &amp; 28.</p>
+            <p>And when <hi>Rebekah</hi> was with Child, the Children struggled in her Womb, and she said, <hi>If it be so, why am I thus?</hi> And she went to the Lord to enquire, and the Lord said unto her, <hi>two Nations are in thy Womb, and two manner of People, and the El<g ref="char:EOLhyphen"/>der shall serve the Younger, &amp;c.</hi> as in <hi>Gen.</hi> 25.</p>
+            <p>So you may see that she had Re<g ref="char:EOLhyphen"/>course to the Lord, and enquired of the Lord, and he heard her, and spoke to her, and she heard the Lords voice; she is an Example to all wo<g ref="char:EOLhyphen"/>men in that Condition, to ask Coun<g ref="char:EOLhyphen"/>sel of the Lord as she did.</p>
+            <p>And when <hi>Sarah</hi> said to <hi>Abraham, Cast forth the Bond woman and her Son; for the Son of the Bond-woman shall not
+<pb n="13" facs="tcp:204166:17"/> be Heir with my Son</hi> Isaac; <hi>but th<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> thing was grievous in</hi> Abraham<hi>'s sight, because of his Son</hi> Ishmael: <hi>but God said unto</hi> Abraham, <hi>let it not be grievous in thy sight, because of the Lad, and because of the Bond-woman; for in all that</hi> Sa<g ref="char:EOLhyphen"/>rah <hi>hath said unto thee, hearken unto her voice; for in</hi> Isaac <hi>shall thy Seed be called.</hi>
+            </p>
+            <p>Here you may see God justified this honourable woman's speaking, and her Husband <hi>Abraham</hi> did accor<g ref="char:EOLhyphen"/>ding to her words, as in <hi>Gen.</hi> 21. for the Church was in <hi>Abraham</hi>'s house that time; and so <hi>Sarah</hi> spoke in the Church.</p>
+            <p>And you may see the Counsel of <hi>Rebekah</hi> to <hi>Jacob,</hi> and how she instru<g ref="char:EOLhyphen"/>cted her Son in chap. 27. &amp;c.</p>
+            <p>And likewise you may see <hi>Rachel</hi> and <hi>Leah</hi> their Counsel to <hi>Jacob,</hi> who answered <hi>Jacob</hi> and said unto him, <hi>Is there yet any Portion or Inheritance for us in our Father's House? are we not counted of him as Strangers? for he hath
+<pb n="32" facs="tcp:204166:18"/> sold us, and hath quite devoured also our Money; for all the Riches which God hath taken from our Father, that is ours and our Childrens; and now therefore, whatsoever God hath said unto thee do.</hi> This was <hi>Rachel</hi>'s and <hi>Leah</hi>'s Counsel unto <hi>Jacob;</hi> and were not these three a Church then? and did he forbid them from speaking in the Church? see <hi>Gen.</hi> 31.14, 15, 16.</p>
+            <p>And in <hi>Exod.</hi> 1. there you may see the Midwives which feared God did not obey King <hi>Pharaoh</hi>'s Command, in destroying the Male-Children, but saved them alive.</p>
+            <p>And after that the King of <hi>Egypt</hi> sent for the Midwives, and asked them, <hi>why they had done so, in saving the Male-Children?</hi> yet these Mid<g ref="char:EOLhyphen"/>wives after he had thus examined them &amp; re-inforced his Command, yet they still disobeyed his Com<g ref="char:EOLhyphen"/>mand, and would not yield to his persecuting, murdering Decrees, &amp; therefore it is said, <hi>God dealt well with the Midwives.</hi>
+            </p>
+            <pb n="33" facs="tcp:204166:18"/>
+            <p>
+               <hi>And it came to pass, because the Mid<g ref="char:EOLhyphen"/>wives feared God, that he made them Houses.</hi>
+            </p>
+            <p>And here you may see the Lord took Care for these honourable wo<g ref="char:EOLhyphen"/>men that feared him.</p>
+            <p>And do ye think that these honou<g ref="char:EOLhyphen"/>rable women did not meet often to<g ref="char:EOLhyphen"/>gether, and took Counsel together, to stand together and adventure their own Lives and Estates to preserve the Lives of those Male-Children? would you not say, if this were in your Dayes, that these were bold women to answer the King after such a manner, and to disobey the King's Commands thus, as in <hi>Exod.</hi> 1.</p>
+            <p>And after the Children of <hi>Israel</hi> came out of <hi>Egypt,</hi> and saw the De<g ref="char:EOLhyphen"/>struction of <hi>Pharaoh</hi> and his Host, af<g ref="char:EOLhyphen"/>ter <hi>Moses</hi> made an End of his Song, and praising of the Lord, then <hi>Mi<g ref="char:EOLhyphen"/>riam the Prophetess, the Sister of</hi> Aaron <hi>took a Timbrel in her Hand, and all the Women went out after her with Timbrels
+<pb n="34" facs="tcp:204166:19"/> and with Dances</hi> (mark, <hi>all the Women</hi>) <hi>and</hi> Miriam <hi>answered them, and said, Sing ye unto the Lord; for he hath tri<g ref="char:EOLhyphen"/>umphed gloriously, the Horse and his Ri<g ref="char:EOLhyphen"/>der hath he overthrown in the Sea,</hi> &amp;c.</p>
+            <p>Now here you may see what an Assembly here was of the women, that praised the Lord, which were instructed by <hi>Miriam</hi> the Prophetess, and <hi>Moses</hi> and <hi>Aaron</hi> were not offen<g ref="char:EOLhyphen"/>ded at them; for they were sensible of their Joy, and were partakers of the Deliverance and Salvation, the women as well as the men, as you may see in <hi>Exod.</hi> 15.</p>
+            <p>And <hi>Debora</hi> a Prophetess she judg<g ref="char:EOLhyphen"/>ed <hi>Israel,</hi> and sent to <hi>Barak</hi> and ex<g ref="char:EOLhyphen"/>horted and encouraged him, and she prophesied to him, that he should not have the Glory of the Battel; but that the Lord should sell <hi>Sisera</hi> into the Hands of a woman, as you may see in <hi>Judges</hi> 4, 5. chap.</p>
+            <p>Then sung <hi>Deborah</hi> and praised the Lord, and there you may see her large
+<pb n="35" facs="tcp:204166:19"/> Declaration, in praising and magni<g ref="char:EOLhyphen"/>fying the Name of the Lord, the whole Chapter throughout; and how she said, <hi>Blessed be</hi> Jael, <hi>above women, the Wife of</hi> Heber, <hi>blessed shall she be in the Tent, &amp;c.</hi> and we do not read that the Elders did reprove her, or bid her <hi>hold her Prating;</hi> for she was filled with the Power of the Lord to praise his Name, <hi>Judg.</hi> 5.</p>
+            <p>And you may see how the Apostle set forth the honourable women, and their Faithfulness &amp; Constancy, who by Faith received the Dead, raised to Life again, <hi>Hebr.</hi> 11.35.</p>
+            <p>And <hi>Hannah,</hi> which prayed in the Temple before <hi>Eli,</hi> as aforesaid, who was ignorant of her Condition, he re<g ref="char:EOLhyphen"/>proved her, &amp; thought she had been Drunk; but she convinced him, so as at last he encouraged her, and de<g ref="char:EOLhyphen"/>sired the Lord <hi>to grant her Petition:</hi> and when the Lord had granted it to her, you may see how this honoura<g ref="char:EOLhyphen"/>ble
+<pb n="36" facs="tcp:204166:20"/> Woman exalts the Lord, 1 <hi>Sam.</hi> 1. to the 10th.</p>
+            <p>And <hi>Ruth</hi> and <hi>Naomi,</hi> you may see what vertuous women they were, and how the women blessed the Lord on their behalf, and how they de<g ref="char:EOLhyphen"/>clared of the Goodness of the Lord to them.</p>
+            <p>And <hi>Huldah</hi> the Prophetess, which dwelt in <hi>Jerusalem,</hi> in the Colledge, where the King sent out the Priest <hi>Herah,</hi> and his Chancellor, and o<g ref="char:EOLhyphen"/>thers, to enquire of her. Now the <hi>Jews</hi> here did not despise Communi<g ref="char:EOLhyphen"/>cation with a woman. And she in<g ref="char:EOLhyphen"/>structed the Priest and the King's Chancellor, which came to her.</p>
+            <p>So neither King nor Priest did de<g ref="char:EOLhyphen"/>spise this Prophetess's Teaching and Instruction, but obeyed it, as you may see what a large Sermon she preached to them in 2 <hi>King.</hi> 22. from 14. to the end.</p>
+            <p>And you may see <hi>Abigail,</hi> that ho<g ref="char:EOLhyphen"/>nourable
+<pb n="37" facs="tcp:204166:20"/> woman's Wisdom, how she saved her Family &amp; her House from Destruction.</p>
+            <p>Yet she did not go to ask her Hus<g ref="char:EOLhyphen"/>band (old churlish <hi>Nabal</hi>) at home, but she, who was innocent and wise, took it upon her self; and you may see what a brave Sermon she preach<g ref="char:EOLhyphen"/>ed to <hi>David,</hi> who heard her patient<g ref="char:EOLhyphen"/>ly; and she told <hi>David,</hi> how that <hi>he was bound up in the bundle of Life with the Lord God.</hi> And <hi>David</hi> blessed the Lord God that she came to him, and said, <hi>The Lord God of</hi> Israel <hi>had sent her that day to meet him;</hi> and said, <hi>Blessed be thy Advice and blessed be thou which hast kept me this day from shed<g ref="char:EOLhyphen"/>ding Blood,</hi> as you may read in 1 <hi>Sam.</hi> 15. And was not this a Noble and Honourable Act of this Woman, which prevented so much Evil and Blood-shed, which her Husband had like to have brought upon them. So <hi>David</hi> did not despise the Counsel of
+<pb n="38" facs="tcp:204166:21"/> this honourable woman, who was wiser then her Husband <hi>Nabal.</hi>
+            </p>
+            <p>And now, must not the Virgins, in the time of the Gospel, trim their Lamps, and get Oyl into their own Lamps, by labouring in the Grace, Light and Power of Christ, and keep their Lamps trimmed and alwayes burning.</p>
+            <p>In the time of the Law it was <hi>Aa<g ref="char:EOLhyphen"/>ron</hi> the Priest's Office, but in the time of the Gospel all the Virgin Minds must trim their Lamps, that their Lamps may burn the clearer, and to see that they have Oyl in their Lamps from the heavenly Olive-tree, Christ Jesus.</p>
+            <p>And therefore, they that would not have the Virgins and Women to be diligent, serving the Lord in his heavenly Business and Service, their Lamps are gone out, and they are be<g ref="char:EOLhyphen"/>come Fools, and would have others like themselves.</p>
+            <p>And the Lord sent <hi>Elijah</hi> in the
+<pb n="39" facs="tcp:204166:21"/> time of the Famine, and said unto him, <hi>Behold, I have commanded a Wi<g ref="char:EOLhyphen"/>dow Woman to sustain thee;</hi> and he a<g ref="char:EOLhyphen"/>rose, and went to <hi>Zarephath,</hi> and when he came to the Gate of the City, the widow woman was gathering Sticks to make a Fire, to bake her a Cake, who had but one Handful of Meal and a little Oyl in a Cruce, and yet in Faith she made the Man of God a Cake, though she had no more then this, that she and her Son might eat and then dye; but her Meal wasted not, nor her Cruce of Oyl, accor<g ref="char:EOLhyphen"/>ding to the Word of the Lord; and so the Lord blessed this woman, as you may see in 1 <hi>Kings</hi> the 17th chap.</p>
+            <p>And in the 2d of <hi>Kings</hi> and the 4th, there you may see the Faith of the widow woman, and how largely she spoke unto the Prophet <hi>Elisha,</hi> and how the Lord encreased her stock of Oyl through her Belief and Faithful<g ref="char:EOLhyphen"/>ness.</p>
+            <p>And <hi>Elisha</hi> passed unto <hi>Shunnim,</hi>
+               <pb n="40" facs="tcp:204166:22"/> where there was a great woman, and she constrained him to eat Bread; and so it was, as oft as he passed by that he turned in thither to eat Bread; and she said unto her Husband, <hi>Behold, now I perceive, that this is a Holy Man of God, which passes by us continually, let us make him a little Chamber, I pray thee, on the Wall, and let us set for him there a Bed, and a Table, &amp; a Stool, and a Candlestick, and it shall be that when he comes to us, that he shall turn in thither.</hi> Now to this good Action of this ho<g ref="char:EOLhyphen"/>ly woman was her Husband subject; and how she was blest afterwards for her Faithfulness, and receiving of the Man of God.</p>
+            <p>Now the Prophet of the Lord did not despise this woman's speaking in the time of the Law.</p>
+            <p>Neither did <hi>Solomon</hi> despise the Prophesie his Mother taught him, <hi>Prov.</hi> 31.</p>
+            <p>And <hi>David</hi> said, <hi>The Lord gave the word, and great was the Company of those that published it,</hi> Psal. 68.</p>
+            <pb n="41" facs="tcp:204166:22"/>
+            <p>And the King's Daughter was a<g ref="char:EOLhyphen"/>mong the Honourable Women: So there were the honourable women, that feared and served the Lord God, in the time of the Law, and before the Law.</p>
+            <p>But now there should be much more in the time of the Gospel, which is preached to every Creature, and in the time of the Light, which has enlightned every man that cometh into the World; and in the time of the Covenant of Grace, which hath appeared unto all men, to teach them and bring their Salvation; and so in the time of the Gospel, Light and Grace, the honourable women should be meet Helps, and Fellow-labourers together in the Work and Service of the Lord, as man and woman was before they fell, and as they were in the time of the Law.</p>
+            <p>For that honourable <hi>Debora,</hi> which was a Valiant Mother in <hi>Israel,</hi> was
+<pb n="42" facs="tcp:204166:23"/> a Judge and a Prophetess, <hi>Judges</hi> 5.7.</p>
+            <p>And <hi>Jeptha</hi>'s Daughter, was not she a vertuous young woman? and see what a Sermon she preach'd to her Father, and said to him, <hi>Let me go up to the Mountains to bewail my Virginity:</hi> and he said unto her, <hi>Go:</hi> and she went &amp; her Companions, Fellow-Virgins, and she said unto her Father, <hi>As thou hast opened thy Mouth unto the Lord, so do unto me accordingly to what hath pro<g ref="char:EOLhyphen"/>ceeded out of thy Mouth, forasmuch as the Lord hath taken Vengeance for thee of thy Enemies.</hi>
+            </p>
+            <p>And the Daughters of <hi>Israel</hi> went yearly to lament the Daughter of <hi>Jeptha, Judg.</hi> 11.</p>
+            <p>So here they had a yearly Meeting upon this Occasion: but the Assem<g ref="char:EOLhyphen"/>blies of the women about the Works and Services the Lord commanded, was beyond this.</p>
+            <p>And <hi>Manoah, Sampson</hi>'s Mother,
+<pb n="43" facs="tcp:204166:23"/> unto whom the Angel of the Lord appeared, and declared unto her great things, which she declared un<g ref="char:EOLhyphen"/>to her Husband, but her Husband did not reprove her; and when her Hus<g ref="char:EOLhyphen"/>band was in fear that he should dye, then his Wife encouraged him, say<g ref="char:EOLhyphen"/>ing, <hi>If the Lord were pleased to kill us, he would not have received a Burnt-Offering, and have shewed us all these things.</hi>
+            </p>
+            <p>And here you may see the stead<g ref="char:EOLhyphen"/>fastness of this woman's Faith, be<g ref="char:EOLhyphen"/>yond her Husband's, as in <hi>Judges</hi> 13.</p>
+            <p>And was not <hi>Micah</hi>'s Mother a vir<g ref="char:EOLhyphen"/>tuous Woman? read <hi>Judg.</hi> 17. and see what she said to her Son.</p>
+            <p>And the Woman of <hi>Tekoa,</hi> see what a Sermon she preached to King <hi>David,</hi> which convinced him, 2 <hi>Sam.</hi> 13.14.</p>
+            <p>And you may see what a large Ser<g ref="char:EOLhyphen"/>mon the Woman of the City of <hi>A<g ref="char:EOLhyphen"/>bel</hi> preached unto <hi>Joab</hi> the General;
+<pb n="44" facs="tcp:204166:24"/> she told him, she was <hi>one of them that were peaceable and faithful in</hi> Israel; <hi>&amp; thou seekest to destroy a City &amp; a Mother in</hi> Israel: <hi>why wilt thou swallow up the Inheritance of the Lord?</hi> So she convin<g ref="char:EOLhyphen"/>ced him and preserved the City.</p>
+            <p>And so these and such women are recorded to Posterity for their VVis<g ref="char:EOLhyphen"/>dom, and their Virtue, and their Faith as you may see in the 2d of <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> and the 20th.</p>
+            <p>And what think you of <hi>Esther?</hi> read her Book, and see the Behaviour of this virtuous honourable woman, who by her VVisdom, Faith and Vir<g ref="char:EOLhyphen"/>tue preserved her People <hi>Israel,</hi> who was a Nursing Mother to them, as you may read in the Book of <hi>Esther,</hi> who kept a Fast with her Maidens to the Lord, and also desired <hi>Mordecai</hi> to keep a Fast in <hi>Shushan, Esther</hi> 4.16.</p>
+            <p>Now, all you Careless women, that are out of God's Service, and
+<pb n="45" facs="tcp:204166:24"/> think ye have no need to be in the Service and Work of the Lord, <note place="margin">Note this, all ye Care<g ref="char:EOLhyphen"/>less Women.</note> hear the VVord of the Lord, what <hi>Isaiah</hi> sayes to such.</p>
+            <p>
+               <hi>Arise up, ye Women, that are at ease; hear my Voice, ye Careless Daugh<g ref="char:EOLhyphen"/>ters, give ear to my Speech; Many days and years shall ye be troubled, ye Care<g ref="char:EOLhyphen"/>less Women; for the Vintage shall fall, the Gathering shall not come.</hi> Nay, you cannot expect it in your Ease and Carelesness, that neglect God's Voice and Speech, and are not diligent; your heavenly Vintage will fall, and of it ye will have little Gathering.</p>
+            <p>
+               <hi>Therefore Tremble ye Women, that are at Ease; be troubled, ye Careless Ones; strip ye, make ye bare, gird Sack-cloth upon your Loyns, &amp;c.</hi> And therefore put off that Careless Garment, and shake off Sloath, and put on Diligence in the Service of God, <hi>Isa.</hi> 32.</p>
+            <p>Now, the <hi>Jews</hi> had their Assem<g ref="char:EOLhyphen"/>blies
+<pb n="46" facs="tcp:204166:25"/> of Mourning-women, &amp; there<g ref="char:EOLhyphen"/>fore the Prophet calls for the Mourn<g ref="char:EOLhyphen"/>ing women, <hi>and let them bewail,</hi> says he, when the <hi>Jews</hi> went into Trans<g ref="char:EOLhyphen"/>gression.</p>
+            <p>And this was because the men and women were not diligent in his Service, in the Power and Spirit of God, which he had poured upon them.</p>
+            <p>And <hi>Isaiah</hi> further sayes, <hi>Hear the Word of the Lord, O ye Women! &amp; let your ears receive the Word of his Mouth, and teach your Daughters Wailing, and every one their Neighbour Lamenta<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>So here the Prophet exhorts the Women, to hear the Word of God first, and then to teach and exhort their Daughters and Neighbours, yea Wailing and Lamentation.</p>
+            <p>And were they not, and are they not to teach their Families and their Neighbours from the Word of the Lord, both in the time of the Law
+<pb n="47" facs="tcp:204166:25"/> and Gospel, to prevent Wailing and Lamentation? <hi>Jer.</hi> 9.</p>
+            <p>And see in <hi>Ezekiel,</hi> how he exhort<g ref="char:EOLhyphen"/>eth, and what the Lord sayes there; <hi>I will cause Lewdness to cease out of the Land, that all Women may be taught not to do after their Lewdness.</hi>
+            </p>
+            <p>And then, as they are obedient to this teaching, they will shun the Judg<g ref="char:EOLhyphen"/>ments that came upon the <hi>Jews,</hi> which were compared to women, as in <hi>Ezek.</hi> 24.</p>
+            <p>And the Assemblies of the women did continue amongst the <hi>Jews</hi> till they went into Transgression, as in 2 <hi>Kings</hi> 23.</p>
+            <p>And when <hi>Saul</hi> &amp; <hi>David</hi> had made a great slaughter upon the <hi>Philistines,</hi> the women came out of all the Ci<g ref="char:EOLhyphen"/>ties of <hi>Israel</hi> (mark, out of all the Cities of <hi>Israel;</hi> and surely this was a great Assembly of Women) sing<g ref="char:EOLhyphen"/>ing and dancing, &amp;c. with Joy and with Instruments of Musick; and the Women answered one another
+<pb n="48" facs="tcp:204166:26"/> as they played, and sung Praises unto God.</p>
+            <p>And <hi>Saul</hi> the King was not angry with the women, but at <hi>David,</hi> be<g ref="char:EOLhyphen"/>cause they ascribed so much Honour to him; for they were Partakers of the Salvation of the Lord, and of the Deliverance, as well as the men.</p>
+            <p>And so they are Partakers in the Gospel, of the Deliverance over the Devil, the grand Enemy of Man<g ref="char:EOLhyphen"/>kind, and are exhorted to praise the Lord, and to make Melody in their Hearts to the Lord, for their Salva<g ref="char:EOLhyphen"/>tion and Deliverance by Christ in the time of the Gospel, as well as the men, 1 <hi>Sam.</hi> 18.</p>
+            <p>And in 2 <hi>Chron.</hi> chap. 35. there <hi>Jeremiah</hi> lamented for <hi>Josiah,</hi> and all the Singing-Men and Singing-Wo<g ref="char:EOLhyphen"/>men spoke of <hi>Josiah</hi> in their Lamen<g ref="char:EOLhyphen"/>tation.</p>
+            <p>So here was not only Singing-men but Singing-women, which did not only sing but lament for this good man <hi>Josiah.</hi>
+            </p>
+            <pb n="49" facs="tcp:204166:26"/>
+            <p>And in the dayes of <hi>Ezra,</hi> after the <hi>Iews</hi> returned from their Capti<g ref="char:EOLhyphen"/>vity, when they returned to their Land, there were Two Hundred Singing-Men and Singing-Women, <hi>Ezra</hi> 2.</p>
+            <p>And in <hi>Neh.</hi> 9. where the Priest stood up with <hi>Urim</hi> and <hi>Thummim,</hi> that is, <hi>Light</hi> and <hi>Perfection,</hi> and they had Two Hundred and Forty Five Singing-men and Singing-women.</p>
+            <p>So these were encouraged by the Priests, according to <hi>David</hi> and <hi>Solo<g ref="char:EOLhyphen"/>mon</hi>'s Order; and these were besides the Assemblies of the Women, a<g ref="char:EOLhyphen"/>bout Works and Service in the Holy things; for these sung Praises to God.</p>
+            <p>And in <hi>Zephan.</hi> 3. he saith, <hi>Sing oh Daughter of</hi> Sion, <hi>shout and rejoyce with all thy Heart, ye Daughters of</hi> Je<g ref="char:EOLhyphen"/>rusalem; <hi>the Lord hath taken away thy Iudgment, &amp;c. the Lord is in the midst of thee, thou shalt see Evil no more.</hi>
+            </p>
+            <pb n="50" facs="tcp:204166:27"/>
+            <p>And in <hi>Zach.</hi> 2. he encourageth them to <hi>Sing and Rejoyce, oh Daugh<g ref="char:EOLhyphen"/>ters of</hi> Sion; <hi>for, lo I come, and I will dwell in the midst of thee, saith the Lord.</hi>
+            </p>
+            <p>So here is great Cause for the Daughter of <hi>Sion</hi> to rejoyce; and who shall stop her Mouth?</p>
+            <p>And in <hi>Luke</hi> 1. you may see, how the Angel of the Lord appeared un<g ref="char:EOLhyphen"/>to <hi>Mary</hi> the Mother of Jesus, and what he said to her, and what a No<g ref="char:EOLhyphen"/>ble Virtuous Mind was in her; and she said unto the Angel, <hi>Behold, the Handmaid of the Lord, be it unto me ac<g ref="char:EOLhyphen"/>cording to thy Word;</hi> so her Belief was beyond <hi>Zachariah</hi>'s the Priest.</p>
+            <p>And when <hi>Mary</hi> came unto <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> what a Meeting and Salutation was there! and how she was filled with the Holy Ghost, and the Babe leaped in her Womb, and she praised the Lord God, and called her the Mother of her Lord; but read from the 40th ver. to the 57th, and see
+<pb n="51" facs="tcp:204166:27"/> how she extols the Lord, and magni<g ref="char:EOLhyphen"/>fies Christ Jesus; for here was a Hea<g ref="char:EOLhyphen"/>venly Meeting of these two, which is chronicled to Ages.</p>
+            <p>So you may see her Belief was a<g ref="char:EOLhyphen"/>bove <hi>Zachariah</hi>'s the Priest: So <hi>Ma<g ref="char:EOLhyphen"/>ry</hi> and <hi>Elizabeth</hi> were notable prea<g ref="char:EOLhyphen"/>chers of Christ Jesus.</p>
+            <p>And you may see in <hi>Luke</hi> 2.7. how <hi>Mary</hi> wrapped Christ in Swadling-Clothes, and how tender she was of the Heavenly Birth conceived by the Holy Ghost.</p>
+            <p>And so must all true and tender Christians that receive him in the Spirit; and how she kept all the Say<g ref="char:EOLhyphen"/>ings that were spoken of Christ, and pondered them in her Heart, <hi>ver.</hi> 16.</p>
+            <p>And so should every true Christi<g ref="char:EOLhyphen"/>an.</p>
+            <p>And there was one <hi>Hannah</hi> a Pro<g ref="char:EOLhyphen"/>phetess, which was Eighty Four Years old, which departed not from the Temple, but served God with Fasting and Prayer Night and Day,
+<pb n="52" facs="tcp:204166:28"/> and she gave Thanks unto the Lord, and spoke of Christ unto all that loo<g ref="char:EOLhyphen"/>ked for Redemption in <hi>Israel,</hi> she spoke of Christ: Here was a notable old woman of Eighty Four Years of Age, a Preacher and a Declarer of Christ.</p>
+            <p>And you do not read that ever a<g ref="char:EOLhyphen"/>ny despised her, or said, it was for<g ref="char:EOLhyphen"/>bidden for a woman to speak in the Church.</p>
+            <p>But this Woman is set forth for an Example to all young and old Wo<g ref="char:EOLhyphen"/>men, of her Love to Christ her Savi<g ref="char:EOLhyphen"/>our; and not only so, but a Preach<g ref="char:EOLhyphen"/>er of him to all that looked for Re<g ref="char:EOLhyphen"/>demption in <hi>Israel.</hi>
+            </p>
+            <p>And the woman of <hi>Canaan</hi> that came unto Jesus, and said, <hi>Lord help, but he answered and said, It is not meet to take the Childrens Bread and cast it unto the Dogs, and she said, Truth Lord, yet the Dogs, eat of the Crumbs which fall from the Master's Table: Then Jesus answered and said unto her, Oh Woman!
+<pb n="53" facs="tcp:204166:28"/> great is thy Faith, be it unto thee even as thou wilt.</hi>
+            </p>
+            <p>So you may see, by this woman's Faith in Christ Jesus, this woman's Daughter was made whole, which is an Example for all the Faithful to look unto Jesus for Help, as you may see in <hi>Mat.</hi> 15.</p>
+            <p>And <hi>Mary</hi> that took a pound of Ointment of Spikenard, very costly, and anointed the Feet of Jesus, and wiped his Feet with her Hair, and and the whole House was filled with the Odour of the Ointment: but when <hi>Judas</hi> saw it, he had Indigna<g ref="char:EOLhyphen"/>tion saying, <hi>What profit is this Waste? why was not this Oyntment sold for three hundred Pieces of Silver &amp; given to the poor,</hi> as you may see in <hi>Mat.</hi> 26. and <hi>Mark</hi> 14. and <hi>John</hi> 12. Now this was <hi>Judas,</hi> which carried the Bag, and be<g ref="char:EOLhyphen"/>traied Christ; and many there are that carry the Bag now, that would not have their Wives nor the wo<g ref="char:EOLhyphen"/>men
+<pb n="54" facs="tcp:204166:29"/> bestow any thing upon Christ, nor his poor Followers.</p>
+            <p>But Jesus said, <hi>Let her alone, why trouble you her? she hath wrought a good Work on me; for the poor ye have with you alwayes, and whensoever ye will, ye may do them good, but me ye have not always; she hath done what she could; she is come before-hand to anoynt my Body to my Bu<g ref="char:EOLhyphen"/>rial.</hi>
+            </p>
+            <p>
+               <hi>Verely, I say unto you, wheresoever this Gospel shall be preached throughout the World, this also that she hath done shall be spoken of, for a Memorial of her.</hi>
+            </p>
+            <p>So Christ did not forbid the Wo<g ref="char:EOLhyphen"/>man's practice, but encouraged her, and so he doth still them that obey him.</p>
+            <p>And the Woman that was twelve Years troubled with an Issue of Blood, who had spent all upon the Physicians, and grew worse and worse; her Faith was so strong, that
+<pb n="55" facs="tcp:204166:29"/> she believed, if she could but touch the Hem of his Garment, she should be well.</p>
+            <p>And assoon as she had touched his Clothes virtue went from Christ and healed her; and then the woman came fearing and trembling, and fell down before Christ, and told him all the Truth what she had done; <hi>And he said unto her, Daughter, thy Faith hath made thee whole, go in Peace, Mark</hi> 5.</p>
+            <p>Now Christ who is the Head of the Church, here suffered a woman to speak before him, from whom she had received the healing-Virtue.</p>
+            <p>And you may see when Christ was crucified, how many women were there, as <hi>Mary Magdalen,</hi> and <hi>Mary</hi> the Mother of <hi>James,</hi> and many others, which came up to <hi>Ierusalem,</hi> that were about Jesus at the time of his being crucified, as in <hi>Mark</hi> 15.</p>
+            <p>And <hi>Mary Magdalen</hi> and <hi>Mary</hi> the Mother of <hi>James</hi> which came to the
+<pb n="56" facs="tcp:204166:30"/> Sepulchre, and the Angel said unto them, <hi>Be not afraid, ye seek Iesus of</hi> Nazareth <hi>which was crucified, he is not here, he is risen, behold the Place where they laid him.</hi>
+            </p>
+            <p>
+               <hi>But go your way, tell his Disciples and</hi> Peter, <hi>that he goeth before you into</hi> Galilee, <hi>there shall you see him, as he said unto you.</hi>
+            </p>
+            <p>For Jesus appeared first unto <hi>Ma<g ref="char:EOLhyphen"/>ry Magdalen,</hi> as in <hi>Mark</hi> 16.</p>
+            <p>And in <hi>Iohn</hi> 20 it is said, the two Angels said unto Mary, <hi>Woman, why weepest thou, and she said, because they have taken away my Lord, and I know not where they have laid him; and when she had thus said, she turned her self and saw Iesus standing, and knew not that it was Iesus, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>But Iesus said unto her,</hi> Mary, <hi>and she turned her self, and said unto him.</hi> Rabbi, <hi>as much as to say,</hi> Master; <hi>and Iesus said unto her, touch me not; for I am not yet ascended unto my Father, but go unto my Brethren, and say unto them,
+<pb n="57" facs="tcp:204166:30"/> I ascend unto my Father, and your Fa<g ref="char:EOLhyphen"/>ther; and to my God, and your God, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>And</hi> Mary Magdalen <hi>came and told the Disciples, that she had seen the Lord, and that he had spoken these things unto her.</hi>
+            </p>
+            <p>So here <hi>Mary Magdalen</hi> was a Mes<g ref="char:EOLhyphen"/>senger of Christ Jesus, who did not despise her speaking before him who was the Head of the Church, nor did not refuse her to send her to preach his Resurrection to his Disci<g ref="char:EOLhyphen"/>ples, though she was a woman.</p>
+            <p>And in <hi>Luke</hi> 24. its said, It was <hi>Mary Magdalen,</hi> and <hi>Ioanna,</hi> and <hi>Ma<g ref="char:EOLhyphen"/>ry</hi> the Mother of <hi>Iames,</hi> and other women which were with them, which told the Apostles, that <hi>Christ was risen;</hi> and this was said unto them, <hi>Why seek ye the Living among the Dead? he is not here, he is risen: Remember that he spoke unto you, when he was yet in</hi> Galilee, <hi>saying, The Son
+<pb n="58" facs="tcp:204166:31"/> of Man must be delivered into the hands of sinful men, &amp;c.</hi>
+            </p>
+            <p>And they remembred these words, and they returned from the Sepul<g ref="char:EOLhyphen"/>chre, and told all these things unto the Eleven Disciples, and all the rest, &amp;c.</p>
+            <p>And mark, as I said before, it was <hi>Mary Magdalen,</hi> and <hi>Ioanna,</hi> and <hi>Ma<g ref="char:EOLhyphen"/>ry</hi> the Mother of <hi>Iames,</hi> and other women that were with them, which told these things unto the Apostles, and these words seemed unto them as idle Tales, and they believed them not.</p>
+            <p>Now mark their Message, and to whom it was, and who they were that were the Messengers, the weak<g ref="char:EOLhyphen"/>er Vessels, and to whom, to the A<g ref="char:EOLhyphen"/>postles; and what they preached was what they remembred Christ had spoken to them before, to wit, that Christ should suffer, and rise again.</p>
+            <p>And Christ appeared again unto
+<pb n="59" facs="tcp:204166:31"/> two of the Disciples, and he talked with them, and asked them, <hi>What Communication they had?</hi> and they said unto him, <hi>Art thou a Stranger in</hi> Jerusalem, <hi>and knowest not the things that have befallen, &amp;c?</hi> and he said unto them, <hi>What things?</hi> and they said unto him, <hi>Concerning Iesus of</hi> Nazareth, <hi>that was a great Prophet, and mighty in Deed and in Word before all the people, which the</hi> Jews <hi>had cru<g ref="char:EOLhyphen"/>cified; but they trusted he should have redeemed</hi> Israel: <hi>and besides all this, to day is the third day fince these things were done.</hi>
+            </p>
+            <p>
+               <hi>And certain women also of our Com<g ref="char:EOLhyphen"/>pany made us astonished, which were at his Sepulchre, and when they found not his Body, they came, saying, That they had seen a Vision of Angels, which said, that he was alive.</hi>
+            </p>
+            <p>So here the women's Testimony of the Resurrection of Christ astoni<g ref="char:EOLhyphen"/>shed them.</p>
+            <p>And Jesus said unto them, <hi>O Fools,
+<pb n="60" facs="tcp:204166:32"/> and slow of Heart to believe all that the Prophets have spoken! ought not Christ to have suffered these things, and to en<g ref="char:EOLhyphen"/>ter into his Glory, &amp;c.</hi>
+            </p>
+            <p>Now here you may see it was <hi>Ma<g ref="char:EOLhyphen"/>ry</hi> and <hi>Ioanna,</hi> and <hi>Mary</hi> the Mother of <hi>Iames,</hi> and the other women that were with them, that declared the Resurrection of Christ unto the E<g ref="char:EOLhyphen"/>leven, which seemed but as idle Tales to the Apostles.</p>
+            <p>And here was a joyful woman's-meeting indeed, of Messengers and Prea<g ref="char:EOLhyphen"/>chers of Christ's Re<g ref="char:EOLhyphen"/>surrection, <note place="margin">Mark, Here Women spoke in the Church from the Head of the Church.</note> which is recorded to Posterity to their Renown, that all should believe; though their Mes<g ref="char:EOLhyphen"/>sage &amp; Speech were as idle Tales to the Disciples; but they were owned by Christ the Head of the Church, as aforesaid, though their preach<g ref="char:EOLhyphen"/>ing was sleighted by the Apostles, and counted as idles Tales; but they
+<pb n="61" facs="tcp:204166:32"/> came to believe afterwards, as in <hi>Luke</hi> 24.</p>
+            <p>And the woman of <hi>Samaria,</hi> that Christ Jesus convinced, and taught her how God was worshipped, to wit, in Spirit and Truth, you may see what a large discourse Christ had with her, as in <hi>Iohn</hi> 4. from the 7th to the 27th, and suffered her to speak before the Head of the Church.</p>
+            <p>And Christ's Disciples marvelled that he talked with a woman; and the woman left her Pitcher of Wa<g ref="char:EOLhyphen"/>ter, and went away into the City of <hi>Samaria,</hi> and said unto the men of the City [mark, unto the Men] <hi>Come and see a man that hath told me all that ever I did; is not this the Christ?</hi>
+            </p>
+            <p>And many of the <hi>Samaritans</hi> belie<g ref="char:EOLhyphen"/>ved, because of the Sayings of the woman, which testified, <hi>He told me all that ever I did.</hi>
+            </p>
+            <p>And when they heard Christ, they said unto the woman, <hi>Now we believe, not because of thy saying only, but we
+<pb n="62" facs="tcp:204166:33"/> have heard him our selves, and know, that he is indeed the Christ, the Saviour of the World.</hi>
+            </p>
+            <p>So here you may see there was a Woman-Preacher, that Christ (the Head of the Church) suffered; and through her means many were con<g ref="char:EOLhyphen"/>verted unto Christ.</p>
+            <p>And when they had crucified Christ Jesus, there were many wo<g ref="char:EOLhyphen"/>men that beheld him afar off, which followed him from <hi>Galilee,</hi> mini<g ref="char:EOLhyphen"/>string unto him, amongst which were <hi>Mary Magdalen,</hi> and <hi>Mary</hi> the Mother of <hi>James,</hi> and <hi>Joses</hi> the Mo<g ref="char:EOLhyphen"/>ther of <hi>Zebedee</hi>'s Children.</p>
+            <p>And here you may see, there was a woman's-meeting with Christ in his Sufferings, which when he was risen, many of them preached his Resurrection, as you may see in <hi>Matthew</hi> 27 &amp; 28 chap. and the 5, 6, 7, 8 Verses, where you may read the message Christ gave to the woman, to declare to the Aopstles as aforesaid,
+<pb n="63" facs="tcp:204166:33"/> which is recorded and set forth that others might believe their Mes<g ref="char:EOLhyphen"/>sage.</p>
+            <p>And when Christ spoke in Re<g ref="char:EOLhyphen"/>proof to the <hi>Jews,</hi> he said, <hi>I tell you of a Truth, many Widows were in</hi> Is<g ref="char:EOLhyphen"/>rael <hi>in the dayes of</hi> Elisha, <hi>&amp;c. but to none of them was</hi> Elisha <hi>sent, save to</hi> Zarephath <hi>a City of</hi> Sidon, <hi>unto a wo<g ref="char:EOLhyphen"/>man that was a Widow, &amp;c.</hi>
+            </p>
+            <p>And the <hi>Jews</hi> arose up, and thrust Christ out of their City, being fil<g ref="char:EOLhyphen"/>led with Wrath against him, for this Saying, and his Reproving of them.</p>
+            <p>And you may read at large the Acts, Doings and Sayings of this faithful woman in the 2d of <hi>Kings</hi> &amp; <hi>Luke</hi> 4.</p>
+            <p>And in <hi>Luke</hi> 7. Christ turned him to the woman, and said unto <hi>Simon, Seest thou this woman? I entred into thy House, but thou gavest me no Water for my Feet; but she hath washed my Feet with Tears, and wiped them with
+<pb n="64" facs="tcp:204166:34"/> the Hair of her Head: and thou gavest me no Kiss; but this woman, since the time I came into her House, hath not ceased to Kiss my Feet: my Head with Oyle thou didst not anoint; but this wo<g ref="char:EOLhyphen"/>man hath anointed my Feet with Oynt<g ref="char:EOLhyphen"/>ment: wherefore I say unto thee, her Sins, which are many, are forgiven: for she loved much; but to whom little is forgiven, the same loved little.</hi>
+            </p>
+            <p>And they that sate at Meat with him began to say, <hi>Who is this that for<g ref="char:EOLhyphen"/>giveth Sins?</hi> and he said unto the woman, <hi>Thy Faith hath saved thee, go in Peace.</hi>
+            </p>
+            <p>So here you may see how Christ justified the woman's Actions above <hi>Simon,</hi> whose Faith hath saved her, which is chronicled to her Renown, and the Honour of God.</p>
+            <p>And in <hi>Matth.</hi> 28. there you may see this <hi>Mary Magdalen,</hi> which was the Preacher of Christ, was she out of whom Christ had cast seven De<g ref="char:EOLhyphen"/>vils, and with her <hi>Ioanna</hi> the Wife
+<pb n="65" facs="tcp:204166:34"/> of <hi>Chusa, Herod</hi>'s Steward, and <hi>Su<g ref="char:EOLhyphen"/>sanna,</hi> which ministred unto Christ of their Substance.</p>
+            <p>Now, would not some Niggards be ready to say, These Women pickt their Husbands Pockets; and others with <hi>Iudas,</hi> who carry the Bag, may say, We must have but One Purse, and is not our Gift and Benevolence sufficient? as in <hi>Matthew</hi> 28. <hi>Luke</hi> 24.</p>
+            <p>But this Woman loved Christ.</p>
+            <p>And Christ said, <hi>My mother and my brethren are these which hear the Word of God and do it,</hi> Luke 8.21.</p>
+            <p>
+               <hi>And</hi> Marth a <hi>received Christ into her House, and she had a Sister called</hi> Mary <hi>that sate at</hi> Jesus<hi>'s Feet, and heard his Word; but</hi> Martha <hi>was cumbred about much Serving, and</hi> Jesus <hi>said unto her,</hi> Martha, <hi>thou art caring and troubled about many things, but one thing is need<g ref="char:EOLhyphen"/>ful, and</hi> Mary <hi>hath chosen that good thing, which shall not be taken away from her:</hi> Which is the Duty of eve<g ref="char:EOLhyphen"/>ry
+<pb n="66" facs="tcp:204166:35"/> good man and woman to do, if they will be kept out of the many things.</p>
+            <p>And you may see how <hi>Mary</hi> talk<g ref="char:EOLhyphen"/>ed with Christ, and Christ with her.</p>
+            <p>So this is chronicled that all might chuse the Good Part, and the One Thing, which cannot be taken away from them, and to be kept out of the many things, that cumber, as you may see in <hi>Luke</hi> 10.</p>
+            <p>And doth not Christ say, <hi>The King<g ref="char:EOLhyphen"/>dom of Heaven is like unto Leven, which a Woman took and hid in three Pecks of meal till all the Lump was levened?</hi> So must not every man and woman know this Leven in their Hearts, if they will know the Kingdom of Christ? <hi>Luke</hi> 13.</p>
+            <p>And the Parable of Christ concer<g ref="char:EOLhyphen"/>ning the Woman that lost her Piece of Silver, who lighted a Candle and swept her own House, and found it in her own House, and when she had found it, she rejoyced, and told her Neighbours.</p>
+            <pb n="67" facs="tcp:204166:35"/>
+            <p>And must not every woman light her own Candle at the Light of Christ Jesus, and sweep her own House with the Power of God, be<g ref="char:EOLhyphen"/>fore she finds God's Treasure? And then for Joy that they have found it, go and declare it unto their Friends and Neighbours?</p>
+            <p>And do not all those Women that have found this, preach Christ to their Friends and Neighbours, and call them together?</p>
+            <p>For may they not be suffered after they have lost an outward Treasure, and found it again, to call their Neighbours together to rejoyce with them, which they may find by ligh<g ref="char:EOLhyphen"/>ting an outward Candle?</p>
+            <p>But their Spirits being the Candle of the Lord, this must be lighted at at the Heavenly Light and Fire, by which their Everlasting Treasure is found; and must not they say then to their Neighbours and Friends, re<g ref="char:EOLhyphen"/>joyce with me, for I have found the
+<pb n="68" facs="tcp:204166:36"/> Piece which was lost? <hi>Likewise, I say unto you,</hi> saith Christ, <hi>there is Joy in the Presence of the Angels of God, over one Sinner that repenteth,</hi> as you may see in <hi>Luke</hi> 15.</p>
+            <p>Now here you may see all these renowned, faithful Women, were encouraged by Christ and his Fol<g ref="char:EOLhyphen"/>lowers; and are recorded and set forth to encourage all that are faith<g ref="char:EOLhyphen"/>ful to wait upon Christ, and to light their Candle at God's Light and Fire, that so they may sweep their House and find their Treasure, that they may declare their Joy of it to their Friends and Neighbours.</p>
+            <p>And also you may see <hi>Dorcas</hi> was full of Good Works, and Alms-deeds which she did; <hi>And all the Widows stood by</hi> Peter <hi>weeping, shewing the Coats and Garments which</hi> Dorcas <hi>made, whilest she was with them,</hi> to wit, the Widows; mark, and was not there a Womens-meeting then? whilest <hi>Dorcas</hi> was with them, to
+<pb n="69" facs="tcp:204166:36"/> wit, the Widows; and <hi>Dorcas</hi> was a Disciple of Jesus, <hi>Acts</hi> 9.</p>
+            <p>And <hi>Paul</hi> on the Sabbath went out of the City by a River Side, where Prayers were wont to be made, and spoke to the Women which resorted thither; and was not there a Wo<g ref="char:EOLhyphen"/>mans-meeting also, which resorted there to pray together?</p>
+            <p>And there was a certain Woman named <hi>Lydia</hi> a Seller of Purple, of the City of <hi>Thyatira,</hi> which worship<g ref="char:EOLhyphen"/>ped God, whose Heart the Lord open<g ref="char:EOLhyphen"/>ed, that she attended unto the things spoken by <hi>Paul,</hi> and she besought him to come to her House, if he judg<g ref="char:EOLhyphen"/>ed her faithful to the Lord, and abide there, and she constrained him and them that were with him, <hi>Acts</hi> 16.</p>
+            <p>So you may see the Faithfulness of this Woman, and the Practice of the other women before they were con<g ref="char:EOLhyphen"/>verted.</p>
+            <p>And <hi>Priscilla,</hi> which was a Nota<g ref="char:EOLhyphen"/>ble Faithful VVoman, whom <hi>Paul</hi>
+               <pb n="70" facs="tcp:204166:37"/> often mentions with her Husband <hi>A<g ref="char:EOLhyphen"/>quilla,</hi> and <hi>Philip</hi>'s four Daughters, which were Prophetesses, which were set forth to encourage others.</p>
+            <p>And you may see <hi>Phebe,</hi> whom the Apostle <hi>Paul</hi> sends his Epistle to the <hi>Romans</hi> from <hi>Corinth</hi> by, and calls a Servant of the Church of <hi>Centria,</hi> and he saith, <hi>Greet</hi> Mary <hi>which be<g ref="char:EOLhyphen"/>stowed much Labour upon us, and</hi> Pri<g ref="char:EOLhyphen"/>scilla <hi>and</hi> Aquilla <hi>my Fellow-Labourers in Christ Jesus.</hi>
+            </p>
+            <p>So here you may see were women Labourers and Helpers in the Gos<g ref="char:EOLhyphen"/>pel; and he farther saith, <hi>I commend unto you our Sister</hi> Phebe, <hi>who is a Ser<g ref="char:EOLhyphen"/>vant unto the Church,</hi> &amp;c. and saith, <hi>that</hi> Priscilla <hi>and</hi> Aquilla <hi>my Fellow-Helpers in Christ Jesus, which for my Life have laid down their Necks, unto whom not only I give Thanks, but also all the Churches of the</hi> Gentiles.</p>
+            <p>So here you may see in what E<g ref="char:EOLhyphen"/>steem was this man and woman, and <hi>Phebe,</hi> and other women for their
+<pb n="71" facs="tcp:204166:37"/> Faithfulness to the Churches, as you may read <hi>Rom.</hi> 16.</p>
+            <p>And the Apostle saith, that the Unbelieving Husband is sanctified by the Believing Wife, &amp;c. else their Children were Unholy, but now they are Clean; and the Unbelieving Wife is sanctified by the Believing Hus<g ref="char:EOLhyphen"/>band: So here is an equal Share in the Belief, 1 <hi>Cor.</hi> 7.</p>
+            <p>And the Apostle saith, that <hi>Every Woman that prayeth or prophesieth with her Head covered, dishonoureth not her Head.</hi>
+            </p>
+            <p>So Women may pray and prophe<g ref="char:EOLhyphen"/>sie here, according to Order, in the Church, as well as the Men, 1 <hi>Cor.</hi> 11. And yet the same Apostle in the 14th chapter forbids a Woman to speak in the Church.</p>
+            <p>So there is Difference betwixt Praying and Prophesying, and Spea<g ref="char:EOLhyphen"/>king in the Church; for Daughters and Handmaids may prophesie and declare their Visions in the Church.</p>
+            <pb n="72" facs="tcp:204166:38"/>
+            <p>And the Apostle saith, <hi>Let the Wo<g ref="char:EOLhyphen"/>man keep Silence in the Church;</hi> and if they will learn any thing, <hi>let them ask their Husbands at home.</hi>
+            </p>
+            <p>But when they have learnt of Christ their Husband at home, they are not forbidden of Christ from prophesying or praying; but to lie babbling and prating in the Church such Speaking in the Church is a Shame.</p>
+            <p>Now a Widow hath no Husband to ask but Christ, nor a Virgin, yet she may prophesie; and a Believing Woman that hath an Unbelieving Husband, she is to sanctifie him; so she is not to learn her Salvation of him, but of Christ, and to do his work.</p>
+            <p>And the same Apostle saith, <hi>Let the men keep Silence in the Church, if they speak in an Unknown Tongue, and there be not an Interpreter.</hi>
+            </p>
+            <p>So here the men must keep Silence in the Church in this case, as well as
+<pb n="73" facs="tcp:204166:38"/> the women, 1 <hi>Cor.</hi> 11. and 1 <hi>Cor.</hi> 14.</p>
+            <p>And the Apostle further saith, <hi>I permit not a Woman to speak in the Church, but to be under Obedience, as also saith the Law.</hi>
+            </p>
+            <p>But though the Law did not per<g ref="char:EOLhyphen"/>mit their speaking in the Church, yet it did permit their prophesying in the Church, in the time of the Law, as well as in the time of the Gospel, as you may see by those Fa<g ref="char:EOLhyphen"/>mous Women before mentioned, in the Old Testament, as well as in the New.</p>
+            <p>And the same Apostle saith, <hi>I be<g ref="char:EOLhyphen"/>seech thee,</hi> Euodias, <hi>and I beseech</hi> Syntyche, <hi>that they may be of the same mind in the Lord, and I intreat thee al<g ref="char:EOLhyphen"/>so, true Yoke-Fellow, help those Women which laboured with me in the Gospel, with</hi> Clement <hi>also, and with other my Fellow Labourers, whose Names are in the Book of Life.</hi>
+            </p>
+            <p>So here the Apostle intreated his Yoke-Fellow to help those Women
+<pb n="74" facs="tcp:204166:39"/> which laboured with him in the Gos<g ref="char:EOLhyphen"/>pel, the Power of God; so these wo<g ref="char:EOLhyphen"/>men were meet Helps with the Apo<g ref="char:EOLhyphen"/>stle in the Labour of the Gospel, the Power of God, as you may see in <hi>Phil.</hi> 4.</p>
+            <p>And all that be of his Mind in the Lord, will encourage either women, or widows, or Virgins that have re<g ref="char:EOLhyphen"/>ceived the Gospel, to labour in it, and all that have not the Mind of the A<g ref="char:EOLhyphen"/>postle in the Lord, will discourage Womens labouring in the Gospel, and not entreat others to help them; but such will give them Liberty to labour in the Power of Darkness, and to Slothfulness, and Carelesness, which the Wo is unto, and not the Blessing.</p>
+            <p>And again, the Apostle writes to <hi>Timothy,</hi> that the <hi>Women should adorn themselves in modest Apparel, and Shamfacedness, and Sobriety, not with broidered Hair, or Gold, or Pearls, or costly Array, but which becomes Women
+<pb n="75" facs="tcp:204166:39"/> professing Godliness, with Good Works; and let your Women learn in Silence with all Subjection, &amp;c. But I suffer not a Woman to teach nor to usurp Authority over the Man, but learn in Silence, &amp;c, for the Woman being deceived, was first in Transgression, &amp;c.</hi>
+            </p>
+            <p>Now for a Woman to preach or teach such a Teaching as <hi>Eve</hi> taught <hi>Adam,</hi> such a Sermon as she had from the Serpent, that drew her self, and <hi>Adam</hi> her Husband from God's Tea<g ref="char:EOLhyphen"/>ching, here, in this Teaching she u<g ref="char:EOLhyphen"/>surpt Authority over the man, and therefore God set the man to rule o<g ref="char:EOLhyphen"/>ver the woman, but they were meet Helps before while they were under God's Teaching.</p>
+            <p>Now to usurp Authority over the man by such Teaching, is out of the Unity, which Teaching is forbidden both by Law and Gospel, and they are not fit to teach, if they have not learnt Subjection to the Spirit of God, and know the Silence of all
+<pb n="76" facs="tcp:204166:40"/> Flesh before the Lord, and have not learnt to adorn themselves with that which is modest, and the Lesson of Sobriety, which becomes Godliness; and with the Good Works, the Fruits of the Spirit.</p>
+            <p>And such Women as have learnt this Lesson may teach and prophesie; for the Spirit is poured upon them to that End.</p>
+            <p>And the same Apostle saith, 1 <hi>Tim.</hi> 5. that <hi>the Elder Women should be as Mothers;</hi> and a Mother is a Nurser, and Teacher, and Instucter of her Children, and <hi>the Younger Women as Sisters, with all Purity;</hi> and Sisters in Christ and Purity, all have but one Father; and a Sister is in the Unity, in the Spirit and in the Gospel, 1 <hi>Tim.</hi> 5.</p>
+            <p>
+               <hi>And if any Woman that believes have Widows, let them relieve them:</hi> So here was the Womans Work to re<g ref="char:EOLhyphen"/>lieve their Widows, &amp;c.</p>
+            <p>And again, the Apostle writes to
+<pb n="77" facs="tcp:204166:40"/>
+               <hi>Titus,</hi> and saith unto him, <hi>Speak thou the things which become sound Doctrine,</hi> &amp;c. <hi>The Aged Women that they be of Good Behaviour, as becometh Holiness; not False Accusers, not given to much Wine, Teachers of Good Things.</hi>
+            </p>
+            <p>Now here they must be qualified before they can be Teachers of those Good Things.</p>
+            <p>And <hi>that these aged Women teach the younger Women,</hi> first, <hi>To be Sober;</hi> secondly, <hi>To love their Husbands;</hi> thirdly, <hi>To love their Children;</hi> fourth<g ref="char:EOLhyphen"/>ly, <hi>To be Discreet;</hi> fifthly, <hi>To be Chast and Keepers at Home, and Good, Obe<g ref="char:EOLhyphen"/>dient to their own Husbands, that the VVord of God be not blasphemed.</hi>
+            </p>
+            <p>Now here the aged Women, not a Woman, but the aged Women, were to teach the younger Women these things.</p>
+            <p>And how could these Women be Teachers of all these virtues &amp; good things, if these Mothers and holy Women did not meet together and
+<pb n="78" facs="tcp:204166:41"/> converse together of Holiness and Virtue, as in <hi>Tit.</hi> 2.</p>
+            <p>And in 1 <hi>Pet.</hi> 3. he encourageth Wives &amp; Women; and if their Hus<g ref="char:EOLhyphen"/>bands will not be won by the word, they may without the Word be won, by the Chast Conversation of the Wives, <hi>whilest they behold your Chast Conversation,</hi> saith he, <hi>coupled with Fear; and whose Adorning,</hi> saith he, <hi>let it not be that of the Outward, with plait<g ref="char:EOLhyphen"/>ing of the hair, or wearing of Gold, or putting on costly Apparel, but let it be the hidden man of the heart, in that which is not Corruptible even the Ornament of a meek and quiet Spirit, which is in the Sight of God of great Price.</hi>
+            </p>
+            <p>And this, he saith, was the Or<g ref="char:EOLhyphen"/>nament of the holy women in the old time, with which they adorned themselves, who trusted in God, as <hi>Sarah,</hi> &amp;c. <hi>whose Danghters ye are as long as ye do well, and are not afraid with any Amazement.</hi>
+            </p>
+            <pb n="79" facs="tcp:204166:41"/>
+            <p>And likewise the Believing Hus<g ref="char:EOLhyphen"/>band, and the Believing Wife are Heirs together of the Grace and Life.</p>
+            <p>And therefore the Believing Wo<g ref="char:EOLhyphen"/>men being Heirs of Grace and Life, as well as the Men, they may impart of their Life which they do inherit, as well as the men; for an Heir of Life is beyond an Heir of the Earth.</p>
+            <p>And there is no Believing Husband will hinder his Believing VVife, be<g ref="char:EOLhyphen"/>ing heirs of Life, to administer some of their temporal things to them that are in Necessity; he will not have all the Earth to himself, but let her have the disposing of some of it, as well as himself, whilest they do enjoy it; and ministring of out<g ref="char:EOLhyphen"/>ward things is the least Love: and women many times know the Con<g ref="char:EOLhyphen"/>ditions more of poor Families, and widows, and such as are in distress more then the men, because they
+<pb n="80" facs="tcp:204166:42"/> are most conversant in their Families and about such things.</p>
+            <p>But there are many Idle Talkers, and Busie-Bodies, that are out of the Sense and Service of God, that will not do good themselves, nor suffer o<g ref="char:EOLhyphen"/>thers to do their Service of Love and Charity for the Lord in the Church.</p>
+            <p>And <hi>John</hi> writes in his Second Epi<g ref="char:EOLhyphen"/>stle unto the <hi>Elect Lady</hi> and her Children, <note place="margin">Mark, <hi>John</hi> the Evange<g ref="char:EOLhyphen"/>list sends his Epistle to a Woman.</note>
+               <hi>whom I love in the Truth,</hi> saith he, <hi>and not I only, but also all those that have known the Truth, for the Truth's Sake which dwelleth in us, and shall be in us forever,</hi> &amp;c.</p>
+            <p>
+               <hi>I rejoyce greatly</hi> (sayes he) <hi>that I have found thy Children walking in the Truth.</hi>
+            </p>
+            <p>And further saith, <hi>I write no new Commandment unto thee, but that which we had from the beginning, that we love one another.</hi>
+            </p>
+            <pb n="81" facs="tcp:204166:42"/>
+            <p>And so he trusts to come and see her, and speak Face to Face unto her; <hi>the Children of thy Elect Sister greet thee, Amen.</hi>
+            </p>
+            <p>So was not this an honourable woman, that had trained up her Children in the Truth, and was commended by <hi>John?</hi> And he ad<g ref="char:EOLhyphen"/>monished her against such as did transgress, and did not abide in the Doctrine of Christ Jesus, that they had not the Father nor the Son; but they that did abide in the Doctrine of Christ Jesus, had both the Father and the Son.</p>
+            <p>So, is not this an Encouragement to all faithful Women, to see that their Children do walk in the Truth, and abide in the Doctrine of Christ, that they may have both the Father and the Son?</p>
+            <p>And farther, <hi>Solomon</hi> saith, <hi>A gra<g ref="char:EOLhyphen"/>cious woman attains Honour, and a ver<g ref="char:EOLhyphen"/>tuous woman is a Crown to her Husband, and every wise woman buildeth her own
+<pb n="82" facs="tcp:204166:43"/> House.</hi> Surely then she hath a work to do; he that hath ears let him hear. <hi>But the foolish woman plucketh it down with her hands.</hi>
+            </p>
+            <p>And there are too many of those that are in the Transgression of the Spirit and Power of God, with which they must build.</p>
+            <p>
+               <hi>But a woman that feareth God, she shall be praised, give her of the Fruit of her hands, and let her Works praise her in the Gates.</hi>
+            </p>
+            <p>And then surely she hath a Work to do, that must praise her in God's Gate.</p>
+            <p>
+               <hi>She stretcheth forth her hands to the Poor, yea, she reacheth forth her hands to the Needy,</hi> Prov. 31.</p>
+            <p>And must she not then have some<g ref="char:EOLhyphen"/>thing of the Outward to do it with<g ref="char:EOLhyphen"/>al?</p>
+            <p>
+               <hi>She opens her Mouth in Wisdom, and in her Tongue is the Law of Kindness. She looks well to the Wayes of her Hous<g ref="char:EOLhyphen"/>hold, and eateth not the Bread of Idle<g ref="char:EOLhyphen"/>ness,
+<pb n="83" facs="tcp:204166:43"/> She is like the Merchant's Ship, she bringeth her Food from far; she ri<g ref="char:EOLhyphen"/>seth also whilst it is Night, and giveth Meat to her Houshold, and Portions to her Maidens; she considereth a Field, &amp; buyeth it with the Fruit of her hands; she planteth a Vineyard; she girdeth her Loyns with strength, and strengthneth her Arms; she perceiveth that her Mer<g ref="char:EOLhyphen"/>chandize is good; her Candle goeth not out by Night, &amp;c.</hi>
+            </p>
+            <p>And here is an Example to all wo<g ref="char:EOLhyphen"/>men, a Pattern of Virtue and of Fruitfulness, and Faithfulness, and Valour, and Practice in the Lord's Work; and such their Children will rise up, and call her blessed.</p>
+            <p>
+               <hi>Many Daughters have done vertuous<g ref="char:EOLhyphen"/>ly</hi> (sayes he) <hi>but this Woman excelleth them all, that is the Nurse of them.</hi>
+            </p>
+            <p>And now, Friends, many other Examples in the Scriptures might be shewed to encourage Women's-Mee<g ref="char:EOLhyphen"/>tings in the Service of God &amp; Christ,
+<pb n="84" facs="tcp:204166:44"/> both concerning their Faithful Te<g ref="char:EOLhyphen"/>stimony for the Lord and Christ, and their Encouragement by the Faithful in the Old and New Testament, how that they had their Assemblies and their Meetings; and now they being Heirs of Life and of Grace, and of the Gospel of Christ, which hath brought Life and Immortality to Light, that you see over him that has darkned you, and before he was.</p>
+            <p>Therefore this Gospel, the Power of God, which is the Everlasting Order, which is to keep you in Life and in Immortality, that you may be meet Helps in the Power and Image of God to the Men, as Man and Wo<g ref="char:EOLhyphen"/>man was before they fell.</p>
+            <p>So, to administer of the Heavenly and Temporal Refreshments, to such as want it, and to stand up for your Liberty in the Light, and Life, and Grace, and Glorious Gospel, being Heirs of Life and Grace, and of the Gospel of Salvation, and of Christ Jesus, as well as the Men.</p>
+            <pb n="85" facs="tcp:204166:44"/>
+            <p>So that all, Males and Females, are one in Christ Jesus, who is the First and Last, and over all from Everlast<g ref="char:EOLhyphen"/>ing to Everlasting your everlasting Joy, Peace and Happiness.</p>
+            <p>And if there was no Scripture for our <hi>men &amp; women's-meetings,</hi> Christ is sufficient, who restores Man and Wo<g ref="char:EOLhyphen"/>man up into the Image of God, to be Helps meet in the Righteousness and Holiness, as they were in before they fell: so He is our Rock and Founda<g ref="char:EOLhyphen"/>tion to build upon.</p>
+            <closer>
+               <signed>G. F.</signed>
+               <dateline>
+                  <hi>Marshgrainge,</hi>
+                  <date>this 16th of the 9th Moneth, 1676.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>WIsdom she hath set forth her Mai<g ref="char:EOLhyphen"/>dens, she cryeth upon the high places of the City, Whose is simple, let him turn in hither; as for him that wanteth Ʋnderstand<g ref="char:EOLhyphen"/>ing, she saith to him, come, eat of my Bread, and drink of my Wine, which I have mingled; forsake the Foolish and live, and grow in the Way of Ʋnderstanding.</hi>
+               </p>
+               <pb n="86" facs="tcp:204166:45"/>
+               <p>Here ye may see the Wisdom of God sends forth Maidens, though the Wisdom of the World will not receive them, that makes Ministers by their wisdom; and such as will not receive Wisdom, will not receive her Maidens, <hi>Prov.</hi> 9. vers. 1, 2, 3.</p>
+               <p>
+                  <hi>The Lord saith, I will pour out upon</hi> David <hi>and upon the Inhabitants of</hi> Jerusalem <hi>the Spirit of Grace and of Compassion, and they shall look upon me whom they have pierced, and mourn, &amp;c. in that Day there shall be great Mourning, the House of</hi> David <hi>apart, and their Wives apart; the House of</hi> Nathan <hi>a<g ref="char:EOLhyphen"/>part, and their Wives apart; the House of</hi> Levi <hi>apart, &amp; their Wives apart; the Family of</hi> Shimei <hi>apart, and their Wives apart; all the Families that remain, every Family apart, and their Wives apart.</hi> And this would be Mad<g ref="char:EOLhyphen"/>ness to all them that are not in that Spirit; but here every one hath the Sense of Christ, whom they have pierced in the Spirit, which is poured upon them, but the Hard-hearted is not sensible, <hi>Zach.</hi> 4.14.</p>
+               <closer>
+                  <signed>G. F.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="letter">
+            <pb n="87" facs="tcp:204166:45"/>
+            <head>To All the Womens Meetings In the Restauration.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>KEEP your Women's-Meet<g ref="char:EOLhyphen"/>ings, you being Heirs of the Gospel and the Power of God, which the Devil is out of; so take your Possession of that which you are Heirs of, and keep the Go<g ref="char:EOLhyphen"/>spel Order; and you being Heirs of Grace, and of Life, and of Christ, the Increase of whose Government there is no End.</p>
+            <p>Man and Woman were Helps meet in the Image of God, and Righ<g ref="char:EOLhyphen"/>teousness, and Holiness in the Do<g ref="char:EOLhyphen"/>minion
+<pb n="88" facs="tcp:204166:46"/> before they fell: But after the Fall, in the Transgression, the man was to rule over his wife; but in the Restoration by Christ into the Image of God, and Righteousness and Holiness again, in that they are helps meet, Man and Woman, as they were before the fall. <hi>Sarah</hi> obeyed <hi>Abraham,</hi> and called him <hi>Lord</hi> (<hi>Sarah,</hi> which signifies a <hi>Princess</hi>) <hi>Abraham</hi> must obey the Voice of his Wife <hi>Sa<g ref="char:EOLhyphen"/>rah</hi> in casting out the Bond-woman's Son; so they were both Helps meet together. <hi>Dorcas</hi> was a Disciple, which was a Woman; so there were Women Disciples as well as Men; and mind the women that accompa<g ref="char:EOLhyphen"/>nied her: and women are to take up the Cross daily, and follow Christ daily, as well as the men, and so to be taught of him their Prophet, and fed of him their Shepherd, and coun<g ref="char:EOLhyphen"/>selled by him their Counsellor, and sanctified and offered up by him their Priest, who offered himself for all.
+<pb n="59" facs="tcp:204166:46"/> And there were Elder Women and Aged Women in the Truth, as well as Elder Men and Aged Men in the Truth; and these women are to be Teachers of good things; so they have an Office as well as the men; for they have a Stewardship, and must give an Account of their Steward<g ref="char:EOLhyphen"/>ship to the Lord as well as the men. <hi>Deborah,</hi> a Judge; <hi>Miriam</hi> and <hi>Hul<g ref="char:EOLhyphen"/>dah,</hi> Prophetesses; old <hi>Hannah,</hi> a Pro<g ref="char:EOLhyphen"/>phetess and a Preacher of Christ to all that looked for Redemption in <hi>Je<g ref="char:EOLhyphen"/>rusalem; Mary Magdalen,</hi> the first Preacher of Christ's Resurrection to the Disciples; and the Disciples could not believe her Message and Testimo<g ref="char:EOLhyphen"/>ny, that she had from Jesus (as some now adayes cannot) but she preach't (who was sent, and heard the Voice) so is every woman and man that sees him risen, and hath the Command and Message. Daughters shall pro<g ref="char:EOLhyphen"/>phesie as well as Sons; so they are to be obedient that have the Spirit pour<g ref="char:EOLhyphen"/>ed
+<pb n="90" facs="tcp:204166:47"/> upon them; Women are to pro<g ref="char:EOLhyphen"/>phesie, and Prophecy is not to be quenched; them that have the Te<g ref="char:EOLhyphen"/>stimony of Jesus, are commanded to keep it, whether men or women. <hi>Priscilla</hi> and <hi>Aquilla</hi> were both exhor<g ref="char:EOLhyphen"/>ters and expounders or instructers to <hi>Apollos;</hi> so in the Church here were women Instructers women Prophets and Daughters Prophets in the Church (for <hi>Philip</hi> had four) Virgins Prophets, Women Disciples in the Church, women elders in the church as well as men: so women are to keep in the Government of Christ, Obey<g ref="char:EOLhyphen"/>ers of Christ, and women to keep the comely Order of the Gospel as well as men, and to see that all that have received Christ Jesus that they walk in Christ Jesus, and to see that all that have received the Gospel do walk in the Gospel, the Power of God, which they are Heirs of; for this is a Day for all to take Possession of the Gospel, and the Order of it,
+<pb n="91" facs="tcp:204166:47"/> that be Heirs of it, and to take Pos<g ref="char:EOLhyphen"/>session of Christ, that be Heirs of him, and of his Government, the increase whereof there is no end (And as the Apostle sayes, <hi>I permit not a wo<g ref="char:EOLhyphen"/>man to speak in the Church, nor to usurp Authority over the man, as sayes the Law; for</hi> Eve <hi>was first in Transgressi<g ref="char:EOLhyphen"/>on, and so forth</hi>) Indeed such teaching as <hi>Eve</hi> taught her husband, who drew him from God's Command &amp; God's Teaching, first going her self from God's Teaching, to the Serpent's tea<g ref="char:EOLhyphen"/>ching, such women's teaching is for<g ref="char:EOLhyphen"/>bidden both by Law and Gospel, and such usurping of Authority; for that teaching was not from God, but from the Serpent, and such women's spea<g ref="char:EOLhyphen"/>king as the Apostle and the Law for<g ref="char:EOLhyphen"/>bids, which is a shame, they go out from the Husband's Teaching at home, Christ Jesus; he and she that hath an Ear to hear, let them hear, &amp; also hear the Husband at home; then let the Elder Women teach and in<g ref="char:EOLhyphen"/>struct,
+<pb n="92" facs="tcp:204166:48"/> as they hear the Husband at home, and Daughters and Virgins prophesie; for it is the Whore that is gone from her <hi>husband's teaching,</hi> to the <hi>serpent's teaching,</hi> that has not nor does not abide in her house, that hates the Virgins, &amp; killed the Prophets &amp; Prophetesses, &amp; not the true Church; and the same Apostle that forbad such Women's speaking or teaching, com<g ref="char:EOLhyphen"/>mands the <hi>elder women to be teachers of good things, and also to be teachers of the young women, and also that Daughters, Virgins and Women to prophesie,</hi> this he encourages in the Church: But wo<g ref="char:EOLhyphen"/>men to draw their Husbands from God, his Truth and Image, into death and the earth, that is forbidden; for such <hi>usurp authority,</hi> &amp; are Transgres<g ref="char:EOLhyphen"/>sors, and come into death, and bring their Husbands into it, if they obey them, as <hi>Eve</hi> did, and go from God &amp; Christ's teaching, their Husband, of whom they must all learn of him at home, who is Head of the Church,
+<pb n="93" facs="tcp:204166:48"/> in which there is Women, Daughters, Virgins, Prophetesses, Instructers, Teachers, Disciples, Elders, as well as men: so the Foundation of our Wo<g ref="char:EOLhyphen"/>men's-meeting is Christ to all them that be Heirs of him, and of his Go<g ref="char:EOLhyphen"/>vernment, <hi>the increase whereof there is no end.</hi> And the ground of our order of the women's meeting is the gospel the Power of God, before the Devil was; and all that be Heirs of the Go<g ref="char:EOLhyphen"/>spel, which hath brought Life and Immortality to light in them, which shines over him that hath darkened them, and before he was, I say, they are Heirs of the comely Order of the Gospel; and therefore, I say, take your possession of it, and walk as be<g ref="char:EOLhyphen"/>comes the Gospel, &amp; keep the comely Order of it, and in it keep your Mee<g ref="char:EOLhyphen"/>tings; and here is the Ground and Foundation of Women's meetings. Now women of Families, that have the ordering of Children, Maids and Servants, may do a great deal of good
+<pb n="94" facs="tcp:204166:49"/> in their Families to the making (or spoiling) of their Children and Ser<g ref="char:EOLhyphen"/>vants; and many things women may do and speak of amongst women, which is not men's business: so, as I said before, that you may, both men and women, be Helps meet in the I<g ref="char:EOLhyphen"/>mage of God, in the Righteousness &amp; Holiness in the Restoration as man &amp; woman was in the Image of God be<g ref="char:EOLhyphen"/>fore they fell, and not only so, but in Christ the Foundation, and his Gos<g ref="char:EOLhyphen"/>pel, that never fell, nor never will fall whose Foundation stands sure for all his Members &amp; Heirs to build upon; and so see that nothing be lacking a<g ref="char:EOLhyphen"/>mongst you, then all will be well.</p>
+            <closer>So no more but my Love.
+<signed>G. F.</signed>
+               <dateline>
+                  <hi>Worcester</hi>-Goal, <date>this 2d of the 11th Moneth, 1673.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="95" facs="tcp:204166:49"/>
+            <head>Postscript.</head>
+            <p>AND the Elder Women in the Truth were not only called Elders, but Mo<g ref="char:EOLhyphen"/>thers; and likewise they were called <hi>Mo<g ref="char:EOLhyphen"/>thers in Israel:</hi> Now a Mother in the Church of Christ, and a Mother in <hi>Israel,</hi> is one that gives suck, and nourishes, and feeds, and dresses, and washes, and rules, and is a Teacher in the Church, and in the <hi>Israel</hi> of God, and an Admonisher, and Instructer, and Exhorter: So all that are come to that Office, Growth and Stature, be diligent; for a Mother in <hi>Israel,</hi> or in the Church of Christ, is beyond all the Mothers in <hi>Aegypt</hi> and in <hi>Sodom,</hi> and the Mother of Harlots, Mystery <hi>Babylon,</hi> that brings forth Harlots, and feeds her Harlots in her Cage, which has power over the Tongues, Nations and People, with her Cup of Fornication, which the Mothers in spiritual <hi>Israel</hi> and Church of Christ have the Cup of Salvation &amp; of Con<g ref="char:EOLhyphen"/>solation, and the Breasts of Life, which are full of the Milk of the Word, to suckle all the young ones, and to nourish and instruct,
+<pb n="96" facs="tcp:204166:50"/> admonish, exhort, and rebuke all that is con<g ref="char:EOLhyphen"/>trary, and to refresh and cherish every tender Plant, and has the heavenly Flax, Wheel and Spindle, by which she has the fine Linnen, to clothe the young ones, that with the Power of God are brought forth. So the elder wo<g ref="char:EOLhyphen"/>men, as Mothers, are to be Teachers of good things, and to be Teachers of the younger, and Trainers up in Virtue, in Holiness, Godli<g ref="char:EOLhyphen"/>ness and Righteousness, in Wisdom and in the Fear of the Lord in the Church of Christ. And if the Unbelieving Husband is sanctified by the Believing Wife, then who is the Spea<g ref="char:EOLhyphen"/>ker, and who is the Hearer? Surely such a Woman is permitted to speak; and to work the Works of God, and to make a Member in the Church, and then as an Elder, to over<g ref="char:EOLhyphen"/>see that he walk according to the Order of the Gospel.</p>
+            <closer>
+               <salute>So no more but my Love,</salute>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:204166:50"/>
+         </div>
+      </back>
+   </text>
+</TEI>
